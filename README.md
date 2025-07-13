@@ -10,6 +10,8 @@
 | Day 3 | 2025-07-12 | Shortest Path in Directed Acyclic Graph | GFG   | [Problem](https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1) | ✅ |
 | Day 3 | 2025-07-12 | Graph BFS Traversal                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | ✅ |
 | Day 3 | 2025-07-12 | Graph DFS Traversal                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | ✅ |
+| Day 4 | 2025-07-13 | Number of Provinces                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | ✅ |
+| Day 4 | 2025-07-13 | Missing Number in Array              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | ✅ |
 
 ---
 
