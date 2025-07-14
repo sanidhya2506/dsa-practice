@@ -12,6 +12,9 @@
 | Day 3 | 2025-07-12 | Graph DFS Traversal                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | ✅ |
 | Day 4 | 2025-07-13 | Number of Provinces                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | ✅ |
 | Day 4 | 2025-07-13 | Missing Number in Array              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | ✅ |
+| Day 5 | 2025-07-14 | Rotate Array by One                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/rotate-array-by-one2614/1) | ✅ |
+| Day 5 | 2025-07-14 | Min and Max in Array                 | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | ✅ |
+| Day 5 | 2025-07-14 | Rotate Array by D elements           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ |
 
 ---
 
