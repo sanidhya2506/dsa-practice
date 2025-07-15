@@ -15,6 +15,9 @@
 | Day 5 | 2025-07-14 | Rotate Array by One                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/rotate-array-by-one2614/1) | ✅ |
 | Day 5 | 2025-07-14 | Min and Max in Array                 | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | ✅ |
 | Day 5 | 2025-07-14 | Rotate Array by D elements           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ |
+| Day 6 | 2025-07-15 | Dijkstra Algorithm                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | ✅ |
+| Day 6 | 2025-07-15 | Check if Array is Sorted              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | ✅ |
+| Day 6 | 2025-07-15 | K Largest Elements                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | ✅ |
 
 ---
 
