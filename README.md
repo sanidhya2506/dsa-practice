@@ -18,6 +18,9 @@
 | Day 6 | 2025-07-15 | Dijkstra Algorithm                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | ✅ |
 | Day 6 | 2025-07-15 | Check if Array is Sorted              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | ✅ |
 | Day 6 | 2025-07-15 | K Largest Elements                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | ✅ |
+| Day 7 | 2025-07-16 | Binary Search (First Occurrence)       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | ✅ |
+| Day 7 | 2025-07-16 | First and Second Smallests             | GFG      | [Problem](https://www.geeksforgeeks.org/problems/first-and-second-smallest-elements/0) | ✅ |
+
 
 ---
 
