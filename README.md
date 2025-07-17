@@ -20,6 +20,11 @@
 | Day 6 | 2025-07-15 | K Largest Elements                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | ✅ |
 | Day 7 | 2025-07-16 | Binary Search (First Occurrence)       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | ✅ |
 | Day 7 | 2025-07-16 | First and Second Smallests             | GFG      | [Problem](https://www.geeksforgeeks.org/problems/first-and-second-smallest-elements/0) | ✅ |
+| Day 8 | 2025-07-17 | Delete Kth Element from Singly Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | ✅ |
+| Day 8 | 2025-07-17 | Print Linked List                         | GFG | [Problem](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1) | ✅ |
+| Day 8 | 2025-07-17 | Delete Middle of Linked List              | GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1) | ✅ |
+
+
 
 
 ---
