@@ -23,7 +23,8 @@
 | Day 8 | 2025-07-17 | Delete Kth Element from Singly Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | ✅ |
 | Day 8 | 2025-07-17 | Print Linked List                         | GFG | [Problem](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1) | ✅ |
 | Day 8 | 2025-07-17 | Delete Middle of Linked List              | GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1) | ✅ |
-
+| Day 9 | 2025-07-18 | Delete Node in Doubly Linked List      | GFG      | [Problem](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | ✅ |
+| Day 9 | 2025-07-18 | Array to Linked List                   | GFG      | [Problem](https://www.geeksforgeeks.org/problems/array-to-linked-list/1) | ✅ |
 
 
 
