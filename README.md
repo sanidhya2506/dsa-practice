@@ -28,6 +28,9 @@
 | Day 10 | 2025-07-19 | Count Linked List Nodes              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/count-nodes-in-linked-list/1) | ✅ |
 | Day 10 | 2025-07-19 | Delete Alternate Nodes               | GFG      | [Problem](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1) | ✅ |
 | Day 10 | 2025-07-19 | Reorder List                         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reorder-list/1) | ✅ |
+| Day 11 | 2025-07-20 | Remove Elements from Linked List      | GFG      | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | ✅ |
+| Day 11 | 2025-07-20 | Reverse Doubly Linked List            | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | ✅ |
+| Day 11 | 2025-07-20 | Insert in Middle of Linked List       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1) | ✅ |
 
 
 
