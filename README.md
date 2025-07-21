@@ -31,7 +31,8 @@
 | Day 11 | 2025-07-20 | Remove Elements from Linked List      | GFG      | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | ✅ |
 | Day 11 | 2025-07-20 | Reverse Doubly Linked List            | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | ✅ |
 | Day 11 | 2025-07-20 | Insert in Middle of Linked List       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1) | ✅ |
-
+| Day 12 | 2025-07-21 | Kth Smallest Element in Array         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ✅ |
+| Day 12 | 2025-07-21 | Missing and Repeating Number          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | ✅ |
 
 
 ---
