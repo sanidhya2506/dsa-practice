@@ -35,6 +35,7 @@
 | Day 12 | 2025-07-21 | Missing and Repeating Number          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | ✅ |
 | Day 13 | 2025-07-22 | Array Insert at End       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/array-insert-at-end/1) | ✅ |
 | Day 13 | 2025-07-22 | Largest Product           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/largest-product/1)     | ✅ |
+| Day 14 | 2025-07-23 | Common Elements in 3 Sorted Arrays | GFG      | [Problem](https://www.geeksforgeeks.org/problems/common-elements1132/1) | ✅ |
 
 
 ---
