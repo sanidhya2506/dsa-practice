@@ -38,7 +38,10 @@
 | Day 14 | 2025-07-23 | Common Elements in 3 Sorted Arrays | GFG      | [Problem](https://www.geeksforgeeks.org/problems/common-elements1132/1) | ✅ |
 | Day 15 | 2025-07-24 | Check Equal Arrays                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | ✅ |
 | Day 15 | 2025-07-24 | Indexes of Subarray Sum             | GFG      | [Problem](https://www.geeksforgeeks.org/problems/subarray-with-given-sum/0) | ✅ |
-
+| Day 16 | 2025-07-25 | Move All Zeroes to End            | GFG      | [Problem](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | ✅ |
+| Day 16 | 2025-07-25 | Single Among Doubles              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/single-number-ii/1) | ✅ |
+| Day 16 | 2025-07-25 | Single Among Doubles (Sorted)     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) | ✅ |
+| Day 16 | 2025-07-25 | Unique Number III                 | GFG      | [Problem](https://www.geeksforgeeks.org/problems/unique-number-iii/1) | ✅ |
 
 ---
 
