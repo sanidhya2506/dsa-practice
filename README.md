@@ -1,3 +1,5 @@
+👤 **My GFG Profile**: [Sanidhya Sharma on GeeksforGeeks](https://www.geeksforgeeks.org/user/sanidhyizm1/)
+
 ## 📅 Daily Log
 
 | Day   | Date       | Problem Name                          | Platform | Link                                                                 | Status |
