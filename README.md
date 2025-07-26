@@ -1,4 +1,4 @@
-👤 **My GFG Profile**: [Sanidhya Sharma on GeeksforGeeks](https://www.geeksforgeeks.org/user/sanidhyizm1/)
+👤 **My GFG Profile**: [Sanidhya on GeeksforGeeks](https://www.geeksforgeeks.org/user/sanidhyizm1/)
 
 ## 📅 Daily Log
 
