@@ -42,6 +42,14 @@
 | Day 16 | 2025-07-25 | Single Among Doubles              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/single-number-ii/1) | ✅ |
 | Day 16 | 2025-07-25 | Single Among Doubles (Sorted)     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) | ✅ |
 | Day 16 | 2025-07-25 | Unique Number III                 | GFG      | [Problem](https://www.geeksforgeeks.org/problems/unique-number-iii/1) | ✅ |
+| Day 17 | 2025-07-26 | Concatenate Two Strings               | GFG      | [Problem](https://www.geeksforgeeks.org/problems/c-string-concatenate/1) | ✅ |
+| Day 17 | 2025-07-26 | Crazy String                          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/crazy-string/1)         | ✅ |
+| Day 17 | 2025-07-26 | First Occurrence of Substring         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/first-occurrence/1)     | ✅ |
+| Day 17 | 2025-07-26 | Easy String Compression (Case-Insensitive) | GFG  | [Problem](https://www.geeksforgeeks.org/problems/easy-string/1)         | ✅ |
+| Day 17 | 2025-07-26 | Remainder with 7                      | GFG      | [Problem](https://www.geeksforgeeks.org/problems/remainder-with-7/1)     | ✅ |
+
+
+
 
 ---
 
