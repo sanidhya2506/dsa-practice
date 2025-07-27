@@ -49,7 +49,9 @@
 | Day 17 | 2025-07-26 | First Occurrence of Substring         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/first-occurrence/1)     | ✅ |
 | Day 17 | 2025-07-26 | Easy String Compression (Case-Insensitive) | GFG  | [Problem](https://www.geeksforgeeks.org/problems/easy-string/1)         | ✅ |
 | Day 17 | 2025-07-26 | Remainder with 7                      | GFG      | [Problem](https://www.geeksforgeeks.org/problems/remainder-with-7/1)     | ✅ |
-
+| Day 18 | 2025-07-27 | Sort a String               | GFG      | [Problem](https://www.geeksforgeeks.org/problems/sort-a-string/1)    | ✅ |
+| Day 18 | 2025-07-27 | Good or Bad String          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/good-or-bad-string/1) | ✅ |
+| Day 18 | 2025-07-27 | Palindrome String           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ |
 
 
 
