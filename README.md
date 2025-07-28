@@ -52,7 +52,8 @@
 | Day 18 | 2025-07-27 | Sort a String               | GFG      | [Problem](https://www.geeksforgeeks.org/problems/sort-a-string/1)    | ✅ |
 | Day 18 | 2025-07-27 | Good or Bad String          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/good-or-bad-string/1) | ✅ |
 | Day 18 | 2025-07-27 | Palindrome String           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ |
-
+| Day 19 | 2025-07-28 | Swap the Numbers                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/swap-the-numbers--150024/1?page=1&sortBy=difficulty) | ✅ |
+| Day 19 | 2025-07-28 | Search in a Matrix                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix--021840/0?page=1&category=Arrays&sortBy=difficulty) | ✅ |
 
 
 ---
