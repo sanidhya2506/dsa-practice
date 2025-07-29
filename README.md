@@ -54,6 +54,15 @@
 | Day 18 | 2025-07-27 | Palindrome String           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ |
 | Day 19 | 2025-07-28 | Swap the Numbers                    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/swap-the-numbers--150024/1?page=1&sortBy=difficulty) | ✅ |
 | Day 19 | 2025-07-28 | Search in a Matrix                  | GFG      | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix--021840/0?page=1&category=Arrays&sortBy=difficulty) | ✅ |
+| Day 20 | 2025-07-29 | Element at Given Index               | GFG      | [Problem](https://www.geeksforgeeks.org/problems/find-element-at-given-index-in-array/1) | ✅ |
+| Day 20 | 2025-07-29 | First 1 in Sorted Binary Array       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/first-1-in-a-sorted-binary-array-1587115620/1) | ✅ |
+| Day 20 | 2025-07-29 | Fighting the Darkness                | GFG      | [Problem](https://www.geeksforgeeks.org/problems/fighting-the-darkness/0) | ✅ |
+| Day 20 | 2025-07-29 | Palindrome Array                     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | ✅ |
+| Day 20 | 2025-07-29 | Sort an Array                        | GFG      | [Problem](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1) | ✅ |
+| Day 20 | 2025-07-29 | Third Largest Element                | GFG      | [Problem](https://www.geeksforgeeks.org/problems/third-largest-element/1) | ✅ |
+| Day 20 | 2025-07-29 | Max Sum Path in Two Arrays           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | ✅ |
+
+
 
 
 ---
