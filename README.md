@@ -63,7 +63,8 @@
 | Day 20 | 2025-07-29 | Max Sum Path in Two Arrays           | GFG      | [Problem](https://www.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1) | ✅ |
 | Day 21 | 2025-07-30 | Is Linked List Sorted                 | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-sorted/1) | ✅ |
 | Day 21 | 2025-07-30 | Sort a k sorted doubly linked list    | GFG      | [Problem](https://www.geeksforgeeks.org/problems/sort-a-k-sorted-doubly-linked-list/1) | ✅ |
-
+| Day 22| 2025-07-31 | Adding One           | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/adding-one/1)                     | ✅ |
+| Day 22| 2025-07-31 | Smaller and Larger   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smaller-and-larger4005/1)         | ✅ |
 
 
 ---
