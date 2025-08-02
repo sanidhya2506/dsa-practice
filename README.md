@@ -68,8 +68,8 @@
 | Day 23 | 2025-07-31 | Isomorphic Strings                  | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620) | ✅ |
 | Day 23 | 2025-07-31 | Remove Duplicates                   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1)       | ✅ |
 | Day 23 | 2025-07-31 | Nearest Multiple of 10              | GFG      | [Problem](https://www.geeksforgeeks.org/problems/nearest-multiple-of-102437/1)       | ✅ |
-| Day 24    | 2025-08-02 | Peak Element                          | GFG      | [Link](https://www.geeksforgeeks.org/problems/peak-element/1)       |  ✅ |
-| Day 24    | 2025-08-02 | Check for BST                         | GFG      | [Link](https://www.geeksforgeeks.org/problems/check-for-bst/1)      |  ✅ |
+| Day 24    | 2025-08-02 | Peak Element                          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/peak-element/1)       |  ✅ |
+| Day 24    | 2025-08-02 | Check for BST                         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-for-bst/1)      |  ✅ |
 
 
 ---
