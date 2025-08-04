@@ -71,8 +71,8 @@
 | Day 24    | 2025-08-02 | Peak Element                          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/peak-element/1)       |  ✅ |
 | Day 24    | 2025-08-02 | Check for BST                         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-for-bst/1)      |  ✅ |
 | Day 25 | 2025-08-03 | K-th element of two Arrays       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-arrays1317/1) | ✅  |
-| 26    |2025-08-04 | Count Digits         | GFG      | [Link](https://www.geeksforgeeks.org/problems/count-digits3357/1)   | ✅  |
-| 26    | 2025-08 04| Reverse a String     | GFG      | [Link](https://www.geeksforgeeks.org/problems/reverse-a-string/1)   | ✅  |
+| 26    |2025-08-04 | Count Digits         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/count-digits3357/1)   | ✅  |
+| 26    | 2025-08 04| Reverse a String     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-string/1)   | ✅  |
 
 
 
