@@ -71,9 +71,10 @@
 | Day 24    | 2025-08-02 | Peak Element                          | GFG      | [Problem](https://www.geeksforgeeks.org/problems/peak-element/1)       |  ✅ |
 | Day 24    | 2025-08-02 | Check for BST                         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/check-for-bst/1)      |  ✅ |
 | Day 25 | 2025-08-03 | K-th element of two Arrays       | GFG      | [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-arrays1317/1) | ✅  |
-| 26    |2025-08-04 | Count Digits         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/count-digits3357/1)   | ✅  |
-| 26    | 2025-08 04| Reverse a String     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-string/1)   | ✅  |
-
+| Day 26    |2025-08-04 | Count Digits         | GFG      | [Problem](https://www.geeksforgeeks.org/problems/count-digits3357/1)   | ✅  |
+| Day 26    | 2025-08 04| Reverse a String     | GFG      | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-string/1)   | ✅  |
+| Day 27| 2025-08-05 | Segregate 0s and 1s           | GeeksforGeeks   | [Problem](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1?page=3&category=Arrays&difficulty=Easy&sortBy=submissions) | ✅ |
+| Day 27 | 2025-08-05 | Count the Zeros               | GeeksforGeeks   | [Problem](https://www.geeksforgeeks.org/problems/count-the-zeros2550/1?page=3&category=Arrays&difficulty=Easy&sortBy=submissions) | ✅    |
 
 
 ---
