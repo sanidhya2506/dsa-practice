@@ -76,7 +76,7 @@
 | Day 27| 2025-08-05 | Segregate 0s and 1s           | GFG   | [Problem](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1?page=3&category=Arrays&difficulty=Easy&sortBy=submissions) | ✅ |
 | Day 27 | 2025-08-05 | Count the Zeros               | GFG   | [Problem](https://www.geeksforgeeks.org/problems/count-the-zeros2550/1?page=3&category=Arrays&difficulty=Easy&sortBy=submissions) | ✅    |
 | Day 28 | 2025-08-06 | Count the number of triangles | GFG   | [Problem](https://www.geeksforgeeks.org/problems/count-the-number-of-triangles4529/1) | ✅ |
-
+| Day 29 | 2025-08-07 | Union of 2 Sorted Arrays   | GFG      | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | ✅  |
 
 ---
 
