@@ -80,6 +80,8 @@
 | Day 30 | 2025-08-08 | Non Repeating Character       | GFG | [Problem](https://www.geeksforgeeks.org/problems/non-repeating-character/0) | ✅ |
 | Day 30 | 2025-08-08 | Reverse Words                 | GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) | ✅ |
 | Day 30 | 2025-08-08 | Split the string              | GFG | [Problem](https://www.geeksforgeeks.org/problems/split-the-string/0) | ✅ |
+| Day 31 | 2025-08-09 | Smallest Positive Missing Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number/1) | ✅ |
+| Day 31 | 2025-08-09 | Number of Occurrence             | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-occurrences-of-x-in-a-sorted-array/1) | ✅ |
 
 
 
