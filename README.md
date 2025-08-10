@@ -82,6 +82,7 @@
 | Day 30 | 2025-08-08 | Split the string              | GFG | [Problem](https://www.geeksforgeeks.org/problems/split-the-string/0) | ✅ |
 | Day 31 | 2025-08-09 | Smallest Positive Missing Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number/1) | ✅ |
 | Day 31 | 2025-08-09 | Number of Occurrence             | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-occurrences-of-x-in-a-sorted-array/1) | ✅ |
+| Day 32 | 2025-08-10 | Sum of Two Large Numbers | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-two-large-numbers/1) | ✅ |
 
 
 
