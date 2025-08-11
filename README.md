@@ -83,7 +83,10 @@
 | Day 31 | 2025-08-09 | Smallest Positive Missing Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number/1) | ✅ |
 | Day 31 | 2025-08-09 | Number of Occurrence             | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-occurrences-of-x-in-a-sorted-array/1) | ✅ |
 | Day 32 | 2025-08-10 | Sum of Two Large Numbers | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-two-large-numbers/1) | ✅ |
-
+| Day 33 | 2025-08-11 | Count ways to N'th Stair (Order does not matter) | GFG      | [Problem](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter/)       | ✅ |
+| Day 33 | 2025-08-11 | Number of ways (Tile 1x4 in Nx4 grid)        | GFG      | [Problem](https://www.geeksforgeeks.org/problems/number-of-ways-1587115620/)                          | ✅ |
+| Day 33| 2025-08-11 | Ways to Reach the N'th Stair (Order matters)   | GFG      | [Problem](https://www.geeksforgeeks.org/problems/ways-to-reach-the-nth-stair/)                        | ✅ |
+| Day 33| 2025-08-11 | Count ways to N'th Stair (Order does not matter) | GFG    | [Problem](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter/)       | ✅ |
 
 
 ---
