@@ -87,7 +87,8 @@
 | Day 33 | 2025-08-11 | Number of ways (Tile 1x4 in Nx4 grid)        | GFG      | [Problem](https://www.geeksforgeeks.org/problems/number-of-ways-1587115620/)                          | ✅ |
 | Day 33| 2025-08-11 | Ways to Reach the N'th Stair (Order matters)   | GFG      | [Problem](https://www.geeksforgeeks.org/problems/ways-to-reach-the-nth-stair/)                        | ✅ |
 | Day 33| 2025-08-11 | Count ways to N'th Stair (Order does not matter) | GFG    | [Problem](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter/)       | ✅ |
-
+| Day 34 | 2025-08-12 | Validate an IP Address       | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1) | ✅ |
+| Day 34 | 2025-08-12 | Smallest Number               | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smallest-number5829/1) | ✅ |
 
 ---
 
