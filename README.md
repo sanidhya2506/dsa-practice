@@ -89,6 +89,9 @@
 | Day 33| 2025-08-11 | Count ways to N'th Stair (Order does not matter) | GFG    | [Problem](https://www.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter/)       | ✅ |
 | Day 34 | 2025-08-12 | Validate an IP Address       | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1) | ✅ |
 | Day 34 | 2025-08-12 | Smallest Number               | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smallest-number5829/1) | ✅ |
+| Day 35 | 2025-08-13 | Largest Element in Array | GFG      | [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | ✅ |
+| Day 35 | 2025-08-13 | Last index of One | GFG      | [Problem](https://www.geeksforgeeks.org/problems/last-index-of-15847/1) | ✅ |
+
 
 ---
 
