@@ -91,7 +91,8 @@
 | Day 34 | 2025-08-12 | Smallest Number               | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smallest-number5829/1) | ✅ |
 | Day 35 | 2025-08-13 | Largest Element in Array | GFG      | [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | ✅ |
 | Day 35 | 2025-08-13 | Last index of One | GFG      | [Problem](https://www.geeksforgeeks.org/problems/last-index-of-15847/1) | ✅ |
-
+| Day 36   | 2025-08-14    | Wave Array                   | GFG         | [Problem](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1)          | ✅  |
+| Day 36  | 2025-08-14    | Sort by Absolute Difference  | GFG         | [Problem](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference-1587115621/1) | ✅ |
 
 ---
 
