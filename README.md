@@ -93,6 +93,10 @@
 | Day 35 | 2025-08-13 | Last index of One | GFG      | [Problem](https://www.geeksforgeeks.org/problems/last-index-of-15847/1) | ✅ |
 | Day 36   | 2025-08-14    | Wave Array                   | GFG         | [Problem](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1)          | ✅  |
 | Day 36  | 2025-08-14    | Sort by Absolute Difference  | GFG         | [Problem](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference-1587115621/1) | ✅ |
+| Day 37 | 2025-08-15| Longest Palindrome in a String | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string) | ✅  |
+| Day 37| 2025-08-15| Form a Palindrome              | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/form-a-palindrome)           | ✅ |
+
+
 
 ---
 
