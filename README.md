@@ -95,7 +95,7 @@
 | Day 36  | 2025-08-14    | Sort by Absolute Difference  | GFG         | [Problem](https://practice.geeksforgeeks.org/problems/sort-by-absolute-difference-1587115621/1) | ✅ |
 | Day 37 | 2025-08-15| Longest Palindrome in a String | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string) | ✅  |
 | Day 37| 2025-08-15| Form a Palindrome              | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/form-a-palindrome)           | ✅ |
-
+| Day 38 | 2025-08-16 | Height of Binary Tree    | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | ✅  |
 
 
 ---
