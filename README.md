@@ -96,7 +96,8 @@
 | Day 37 | 2025-08-15| Longest Palindrome in a String | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string) | ✅  |
 | Day 37| 2025-08-15| Form a Palindrome              | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/form-a-palindrome)           | ✅ |
 | Day 38 | 2025-08-16 | Height of Binary Tree    | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | ✅  |
-
+| Day 39 | 2025-08-16| Array Leaders                          | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)                  | ✅     |
+| Day 39  | 2025-08-17| Smallest Subarray with Sum Greater X   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0) | ✅     |
 
 ---
 
