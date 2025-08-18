@@ -98,6 +98,12 @@
 | Day 38 | 2025-08-16 | Height of Binary Tree    | GFG      | [Problem ](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | ✅  |
 | Day 39 | 2025-08-16| Array Leaders                          | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)                  | ✅     |
 | Day 39  | 2025-08-17| Smallest Subarray with Sum Greater X   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0) | ✅     |
+| Day 40 | 2025-08-18 | Left View of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | ✅ |
+| Day 40 | 2025-08-18 | Right View of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | ✅ |
+| Day 40 | 2025-08-18 | Minimum Depth of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimum-depth-of-binary-tree/1) | ✅ |
+
+
+
 
 ---
 
