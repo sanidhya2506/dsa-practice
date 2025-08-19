@@ -101,7 +101,8 @@
 | Day 40 | 2025-08-18 | Left View of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | ✅ |
 | Day 40 | 2025-08-18 | Right View of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | ✅ |
 | Day 40 | 2025-08-18 | Minimum Depth of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimum-depth-of-binary-tree/1) | ✅ |
-
+| Day 41 | 2025-08-19 | Sum of Natural Numbers | GFG | [Problem](https://practice.geeksforgeeks.org/problems/sum-of-natural-numbers/1) | ✅ |
+| Day 41 | 2025-08-19 | Array Subset | GFG | [Problem](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0) | ✅ |
 
 
 
