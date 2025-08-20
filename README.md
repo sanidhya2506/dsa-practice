@@ -103,6 +103,9 @@
 | Day 40 | 2025-08-18 | Minimum Depth of Binary Tree | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimum-depth-of-binary-tree/1) | ✅ |
 | Day 41 | 2025-08-19 | Sum of Natural Numbers | GFG | [Problem](https://practice.geeksforgeeks.org/problems/sum-of-natural-numbers/1) | ✅ |
 | Day 41 | 2025-08-19 | Array Subset | GFG | [Problem](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0) | ✅ |
+| Day 42 | 2025-08-20 | Kth from End of Linked List | GFG | [Problem](https://practice.geeksforgeeks.org/problems/kth-node-from-end-of-linked-list/1) | ✅ |
+| Day 42 | 2025-08-20 | Middle of a Linked List | GFG | [Problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | ✅ |
+
 
 
 
