@@ -105,7 +105,8 @@
 | Day 41 | 2025-08-19 | Array Subset | GFG | [Problem](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0) | ✅ |
 | Day 42 | 2025-08-20 | Kth from End of Linked List | GFG | [Problem](https://practice.geeksforgeeks.org/problems/kth-node-from-end-of-linked-list/1) | ✅ |
 | Day 42 | 2025-08-20 | Middle of a Linked List | GFG | [Problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | ✅ |
-
+| Day 43 | 2025-08-21| Balanced Tree Check              | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/0)    | ✅     |
+| Day 43  | 2025-08-21| K distance from root             | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/k-distance-from-root/0)       | ✅     |
 
 
 
