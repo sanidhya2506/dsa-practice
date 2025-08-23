@@ -109,6 +109,12 @@
 | Day 43  | 2025-08-21| K distance from root             | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/k-distance-from-root/0)       | ✅     |
 | Day 44  | 2025-08-22 | Kadane's Algorithm | GFG | [Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ |
 | Day 44  | 2025-08-22 | Minimum Jumps      | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) | ✅ |
+| Day 45  | 2025-08-23 | Majority Element            | GFG     | [Problem](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ |
+| Day 45  | 2025-08-23 | Count Inversions            | GFG     | [Problem](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | ✅ |
+
+
+
+
 
 
 ---
