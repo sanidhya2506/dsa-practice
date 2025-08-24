@@ -111,7 +111,10 @@
 | Day 44  | 2025-08-22 | Minimum Jumps      | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) | ✅ |
 | Day 45  | 2025-08-23 | Majority Element            | GFG     | [Problem](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ |
 | Day 45  | 2025-08-23 | Count Inversions            | GFG     | [Problem](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | ✅ |
-
+| Day 46  | 2025-08-24 | First Missing Positive      | LeetCode | [Problem](https://leetcode.com/problems/first-missing-positive/) | ✅ |
+| Day 46  | 2025-08-24 | GCD of Odd and Even Sums    | LeetCode | [Problem](https://leetcode.com/contest/weekly-contest-464/problems/gcd-of-odd-and-even-sums/) | ✅ |
+| Day 46  | 2025-08-24 | Trapping Rain Water         | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | ✅ |
+| Day 46  | 2025-08-24 | Max Circular Subarray Sum   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/maximum-circular-subarray-sum-1587115620/1) | ✅ |
 
 
 
