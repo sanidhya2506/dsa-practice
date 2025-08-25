@@ -115,7 +115,8 @@
 | Day 46  | 2025-08-24 | GCD of Odd and Even Sums    | LeetCode | [Problem](https://leetcode.com/contest/weekly-contest-464/problems/gcd-of-odd-and-even-sums/) | ✅ |
 | Day 46  | 2025-08-24 | Trapping Rain Water         | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | ✅ |
 | Day 46  | 2025-08-24 | Max Circular Subarray Sum   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/maximum-circular-subarray-sum-1587115620/1) | ✅ |
-
+| Day 47  | 2025-08-25 | Longest Subarray with Sum K | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ✅ |
+| Day 47  | 2025-08-25 | Diagonal Traverse           | LeetCode | [Problem](https://leetcode.com/problems/diagonal-traverse/) | ✅ |
 
 
 
