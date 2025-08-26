@@ -117,7 +117,10 @@
 | Day 46  | 2025-08-24 | Max Circular Subarray Sum   | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/maximum-circular-subarray-sum-1587115620/1) | ✅ |
 | Day 47  | 2025-08-25 | Longest Subarray with Sum K | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ✅ |
 | Day 47  | 2025-08-25 | Diagonal Traverse           | LeetCode | [Problem](https://leetcode.com/problems/diagonal-traverse/) | ✅ |
-
+| Day 48 | 2025-08-26| Minimize the Heights II                         | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights-ii/1)                   | ✅     |
+| Day 48 | 2025-08-26| A difference of values and indexes              | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/a-difference-of-values-and-indexes/1)        | ✅     |
+| Day 48 | 2025-08-26| Rearrange an array with O(1) extra space        | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)| ✅     |
+| Day 48 | 2025-08-26| Maximum Area of Longest Diagonal Rectangle      | LeetCode | [Problem](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)               | ✅     |
 
 
 
