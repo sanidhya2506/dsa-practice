@@ -121,7 +121,7 @@
 | Day 48 | 2025-08-26| A difference of values and indexes              | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/a-difference-of-values-and-indexes/1)        | ✅     |
 | Day 48 | 2025-08-26| Rearrange an array with O(1) extra space        | GFG      | [Problem](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)| ✅     |
 | Day 48 | 2025-08-26| Maximum Area of Longest Diagonal Rectangle      | LeetCode | [Problem](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)               | ✅     |
-
+| Day 49 | 2025-08-27 | Median of Two Sorted Arrays of Different Sizes | GeeksforGeeks | https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1 | ✅     |
 
 
 ---
