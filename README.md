@@ -123,6 +123,14 @@
 | Day 48 | 2025-08-26| Maximum Area of Longest Diagonal Rectangle      | LeetCode | [Problem](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)               | ✅     |
 | Day 49 | 2025-08-27 | Median of Two Sorted Arrays of Different Sizes | GFG | [Problem](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1) | ✅     |
 | Day 50 | 2025-08-28 | Edit Distance | GFG | [Problem](https://www.geeksforgeeks.org/problems/edit-distance3702/1) | ✅     |
+| Day 51 | 2025-08-29 | Smallest Window Containing All Characters | GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-2-1587115621/1) | ✅ |
+| Day 51 | 2025-08-29 | Better String | GFG | [Problem](https://www.geeksforgeeks.org/problems/better-string/1) | ✅ |
+
+
+
+
+
+
 
 
 ---
