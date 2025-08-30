@@ -125,7 +125,9 @@
 | Day 50 | 2025-08-28 | Edit Distance | GFG | [Problem](https://www.geeksforgeeks.org/problems/edit-distance3702/1) | ✅     |
 | Day 51 | 2025-08-29 | Smallest Window Containing All Characters | GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-2-1587115621/1) | ✅ |
 | Day 51 | 2025-08-29 | Better String | GFG | [Problem](https://www.geeksforgeeks.org/problems/better-string/1) | ✅ |
-
+|Day 52 | 2025-08-30| Remove Duplicates from Sorted Array II | LeetCode | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ |
+| Day 52 | 2025-08-30 | Remove Duplicates from an Array | GFG | [Problem](https://www.geeksforgeeks.org/remove-duplicates-from-an-array/) | ✅ |
+| Day 52 | 2025-08-30 | Duplicate Zeros | LeetCode | [Problem](https://leetcode.com/problems/duplicate-zeros/) | ✅ |
 
 
 
