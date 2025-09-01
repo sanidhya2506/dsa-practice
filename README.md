@@ -130,6 +130,7 @@
 | Day 52 | 2025-08-30 | Duplicate Zeros | LeetCode | [Problem](https://leetcode.com/problems/duplicate-zeros/) | ✅ |
 | Day 53 | 2025-08-31 | Permutations of a String | GFG | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/) | ✅ |
 | Day 53 | 2025-08-31 | Sudoku Solver | LeetCode | [Problem](https://leetcode.com/problems/sudoku-solver/) | ✅ |
+| Day 54 | 2025-09-1 |Maximum Average Pass Ratio| LeetCode | [Problem](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01) | ✅ |
 
 
 
