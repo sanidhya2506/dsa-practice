@@ -131,7 +131,17 @@
 | Day 53 | 2025-08-31 | Permutations of a String | GFG | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/) | ✅ |
 | Day 53 | 2025-08-31 | Sudoku Solver | LeetCode | [Problem](https://leetcode.com/problems/sudoku-solver/) | ✅ |
 | Day 54 | 2025-09-1 |Maximum Average Pass Ratio| LeetCode | [Problem](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01) | ✅ |
-
+| Day 55 | 2025-09-02 | Largest Number At Least Twice of Others | LeetCode | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | ✅ |
+| Day 55 | 2025-09-02 | Largest Triangle Area | LeetCode | [Problem](https://leetcode.com/problems/largest-triangle-area/) | ✅ |
+| Day 55 | 2025-09-02 | Largest Perimeter Triangle | LeetCode | [Problem](https://leetcode.com/problems/largest-perimeter-triangle/) | ✅ |
+| Day 55 | 2025-09-02 | Remove Element | LeetCode | [Problem](https://leetcode.com/problems/remove-element/) | ✅ |
+| Day 55 | 2025-09-02 | Search in Rotated Sorted Array | LeetCode | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ |
+| Day 55 | 2025-09-02 | Max Consecutive Ones | LeetCode | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | ✅ |
+| Day 55 | 2025-09-02 | Single Number | LeetCode | [Problem](https://leetcode.com/problems/single-number/) | ✅ |
+| Day 55 | 2025-09-02 | Majority Element | LeetCode | [Problem](https://leetcode.com/problems/majority-element/) | ✅ |
+| Day 55 | 2025-09-02 | Sort Colors | LeetCode | [Problem](https://leetcode.com/problems/sort-colors/) | ✅ |
+| Day 55 | 2025-09-02 | Maximum Subarray | LeetCode | [Problem](https://leetcode.com/problems/maximum-subarray/) | ✅ |
+| Day 55 | 2025-09-02 | Parenthesis Checker | GeeksforGeeks | [Problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | ✅ |
 
 
 
