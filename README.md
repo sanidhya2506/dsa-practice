@@ -141,7 +141,9 @@
 | Day 55 | 2025-09-02 | Majority Element | LeetCode | [Problem](https://leetcode.com/problems/majority-element/) | ✅ |
 | Day 55 | 2025-09-02 | Sort Colors | LeetCode | [Problem](https://leetcode.com/problems/sort-colors/) | ✅ |
 | Day 55 | 2025-09-02 | Maximum Subarray | LeetCode | [Problem](https://leetcode.com/problems/maximum-subarray/) | ✅ |
-| Day 55 | 2025-09-02 | Parenthesis Checker | GeeksforGeeks | [Problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | ✅ |
+| Day 55 | 2025-09-02 | Parenthesis Checker | GFG | [Problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | ✅ |
+| Day 56 | 2025-09-03 | Equilibrium Point | GFG | [Problem](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) |  | 
+| Day 56 | 2025-09-03 | Find the Number of Ways to Place People II | LeetCode | [Problem](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |  | 
 
 
 
