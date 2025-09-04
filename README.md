@@ -144,6 +144,8 @@
 | Day 55 | 2025-09-02 | Parenthesis Checker | GFG | [Problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | ✅ |
 | Day 56 | 2025-09-03 | Equilibrium Point | GFG | [Problem](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | ✅ | 
 | Day 56 | 2025-09-03 | Find the Number of Ways to Place People II | LeetCode | [Problem](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |✅  | 
+| Day 57 | 2025-09-04 | Find Closest Person | LeetCode | [Problem](https://leetcode.com/problems/find-closest-person/) | ✅ |
+| Day 57 | 2025-09-04 | Linked List Group Reverse | GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-group-reverse/1) | ✅ |
 
 
 
