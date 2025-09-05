@@ -146,7 +146,8 @@
 | Day 56 | 2025-09-03 | Find the Number of Ways to Place People II | LeetCode | [Problem](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |✅  | 
 | Day 57 | 2025-09-04 | Find Closest Person | LeetCode | [Problem](https://leetcode.com/problems/find-closest-person/) | ✅ |
 | Day 57 | 2025-09-04 | Linked List Group Reverse | GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-group-reverse/1) | ✅ |
-
+| Day 58 | 2025-09-05 | Minimum Operations to Make the Integer Zero | LeetCode | [Problem](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/submissions/1760378954/?envType=daily-question&envId=2025-09-05) | ✅ |
+| Day 58 | 2025-09-05 | Sort a Linked List of 0s, 1s, and 2s | GFG | [Problem](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ |
 
 
 
