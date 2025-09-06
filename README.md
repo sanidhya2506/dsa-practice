@@ -148,6 +148,8 @@
 | Day 57 | 2025-09-04 | Linked List Group Reverse | GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-group-reverse/1) | ✅ |
 | Day 58 | 2025-09-05 | Minimum Operations to Make the Integer Zero | LeetCode | [Problem](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/submissions/1760378954/?envType=daily-question&envId=2025-09-05) | ✅ |
 | Day 58 | 2025-09-05 | Sort a Linked List of 0s, 1s, and 2s | GFG | [Problem](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ |
+| Day 59 | 2025-09-06 | Minimum Operations to Make Array Elements Zero | LeetCode | [Problem](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | ✅ |
+| Day 59 | 2025-09-06 | Find Length of Loop in Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | ✅ |
 
 
 
