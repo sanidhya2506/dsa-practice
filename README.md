@@ -150,8 +150,9 @@
 | Day 58 | 2025-09-05 | Sort a Linked List of 0s, 1s, and 2s | GFG | [Problem](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ |
 | Day 59 | 2025-09-06 | Minimum Operations to Make Array Elements Zero | LeetCode | [Problem](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | ✅ |
 | Day 59 | 2025-09-06 | Find Length of Loop in Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | ✅ |
-| Day 60  | 2025-09-07 | Merge K Sorted Linked Lists         | GFG       | [Problem Link](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) | ✅  |
-| Day 60  | 2025-09-07 | Regular Expression Matching         | LeetCode    | [Problem Link](https://leetcode.com/problems/regular-expression-matching/) | ✅  |
+| Day 60  | 2025-09-07 | Merge K Sorted Linked Lists         | GFG       | [Problem ](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) | ✅  |
+| Day 60  | 2025-09-07 | Regular Expression Matching         | LeetCode    | [Problem ](https://leetcode.com/problems/regular-expression-matching/) | ✅  |
+| Day 61  | 2025-09-08 | Minimize Max Distance to Gas Station | GFG       | [Problem](https://practice.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | ✅  |
 
 
 
