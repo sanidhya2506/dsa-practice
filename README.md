@@ -153,6 +153,8 @@
 | Day 60  | 2025-09-07 | Merge K Sorted Linked Lists         | GFG       | [Problem ](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1) | ✅  |
 | Day 60  | 2025-09-07 | Regular Expression Matching         | LeetCode    | [Problem ](https://leetcode.com/problems/regular-expression-matching/) | ✅  |
 | Day 61  | 2025-09-08 | Minimize Max Distance to Gas Station | GFG       | [Problem](https://practice.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | ✅  |
+|Day 62  | 2025-09-09 | Palindrome Linked List | GFG       | [Problem](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | ✅ |
+|Day 62  | 2025-09-09 | Number of People Aware of a Secret | LeetCode | [Problem](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | ✅ |
 
 
 
