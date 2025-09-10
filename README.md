@@ -155,6 +155,8 @@
 | Day 61  | 2025-09-08 | Minimize Max Distance to Gas Station | GFG       | [Problem](https://practice.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | ✅  |
 |Day 62  | 2025-09-09 | Palindrome Linked List | GFG       | [Problem](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | ✅ |
 |Day 62  | 2025-09-09 | Number of People Aware of a Secret | LeetCode | [Problem](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | ✅ |
+| Day 63 | 2025-09-10 | Reverse Nodes in k-Group | LeetCode | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ |
+| Day 63 | 2025-09-10 | Largest Number in One Swap | GFG | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-in-one-swap/1) | ✅ |
 
 
 
