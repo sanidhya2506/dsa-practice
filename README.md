@@ -157,6 +157,9 @@
 |Day 62  | 2025-09-09 | Number of People Aware of a Secret | LeetCode | [Problem](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | ✅ |
 | Day 63 | 2025-09-10 | Reverse Nodes in k-Group | LeetCode | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ |
 | Day 63 | 2025-09-10 | Largest Number in One Swap | GFG | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-in-one-swap/1) | ✅ |
+| Day 64 | 2025-09-11 | Integer to Roman | LeetCode | [Problem](https://leetcode.com/problems/integer-to-roman/) | ✅ |
+| Day 64 | 2025-09-11 | Remove Duplicate Element from Sorted Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | ✅ |
+
 
 
 
