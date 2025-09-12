@@ -159,6 +159,8 @@
 | Day 63 | 2025-09-10 | Largest Number in One Swap | GFG | [Problem](https://practice.geeksforgeeks.org/problems/largest-number-in-one-swap/1) | ✅ |
 | Day 64 | 2025-09-11 | Integer to Roman | LeetCode | [Problem](https://leetcode.com/problems/integer-to-roman/) | ✅ |
 | Day 64 | 2025-09-11 | Remove Duplicate Element from Sorted Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | ✅ |
+| Day 65 | 2025-09-12 | Vowel Game in a String (Alice & Bob) | LeetCode | [Problem](https://leetcode.com/problems/) | ✅ |
+| Day 65 | 2025-09-12 | Minimize the Heights II | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) | ✅ |
 
 
 
