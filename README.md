@@ -161,6 +161,7 @@
 | Day 64 | 2025-09-11 | Remove Duplicate Element from Sorted Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | ✅ |
 | Day 65 | 2025-09-12 | Vowel Game in a String (Alice & Bob) | LeetCode | [Problem](https://leetcode.com/problems/) | ✅ |
 | Day 65 | 2025-09-12 | Minimize the Heights II | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) | ✅ |
+| Day 66 | 2025-09-13 | Minimum Platforms | GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | ✅ |
 
 
 
