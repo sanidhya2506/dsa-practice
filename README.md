@@ -163,6 +163,9 @@
 | Day 65 | 2025-09-12 | Minimize the Heights II | GFG | [Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) | ✅ |
 | Day 66 | 2025-09-13 | Minimum Platforms | GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | ✅ |
 | Day 67 | 2025-09-14 | Gas Station | GFG | [Problem](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1) | ✅ |
+| Day 68 | 2025-09-15 | 0-1 Knapsack Problem | GFG | [Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | ✅ |
+
+
 
 
 
