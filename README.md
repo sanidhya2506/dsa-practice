@@ -164,6 +164,8 @@
 | Day 66 | 2025-09-13 | Minimum Platforms | GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | ✅ |
 | Day 67 | 2025-09-14 | Gas Station | GFG | [Problem](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1) | ✅ |
 | Day 68 | 2025-09-15 | 0-1 Knapsack Problem | GFG | [Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | ✅ |
+| Day 69 | 2025-09-16 | Perfect Sum Problem | GFG | [Problem](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?page=2&sortBy=submissions) | ✅ |
+
 
 
 
