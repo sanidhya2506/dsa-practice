@@ -166,6 +166,7 @@
 | Day 68 | 2025-09-15 | 0-1 Knapsack Problem | GFG | [Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | ✅ |
 | Day 69 | 2025-09-16 | Perfect Sum Problem | GFG | [Problem](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?page=2&sortBy=submissions) | ✅ |
 | Day 70 | 2025-09-17 | Largest Subarray with 0 Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | ✅ |
+| Day 71 | 2025-09-18 |Next Greater Element in Circular Array | GFG | [Problem](https://www.geeksforgeeks.org/problems/next-greater-element/1) | ✅ |
 
 
 
