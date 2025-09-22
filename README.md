@@ -170,7 +170,7 @@
 | Day 72 | 2025-09-19 |Floor in a Sorted Array | GFG | [Problem](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | ✅ |
 | Day 73 | 2025-09-20 |Two sum -Pairs with 0 Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | ✅ |
 | Day 74 | 2025-09-21 |Search Pattern | GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern0205/1) | ✅ |
-
+| Day 75 | 2025-09-22 |Tree Boundary Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | ✅ |
 
 
 
