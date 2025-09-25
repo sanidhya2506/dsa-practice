@@ -173,6 +173,7 @@
 | Day 75 | 2025-09-22 |Tree Boundary Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | ✅ |
 | Day 76 | 2025-09-23 |Queue Reversa | GFG | [Problem](https://www.geeksforgeeks.org/problems/queue-reversal/1) | ✅ |
 | Day 77 | 2025-09-24 |Alien Dictionary | GFG | [Problem](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | ✅ |
+| Day 78 | 2025-09-25 | Burning Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/burning-tree/1) | ✅ |
 
 
 
