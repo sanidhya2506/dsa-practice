@@ -174,7 +174,7 @@
 | Day 76 | 2025-09-23 |Queue Reversa | GFG | [Problem](https://www.geeksforgeeks.org/problems/queue-reversal/1) | ✅ |
 | Day 77 | 2025-09-24 |Alien Dictionary | GFG | [Problem](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | ✅ |
 | Day 78 | 2025-09-25 | Burning Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/burning-tree/1) | ✅ |
-
+| Day 79 | 2025-09-26 | Top View of Binary Tree | GFG | [Problem](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ |
 
 
 
