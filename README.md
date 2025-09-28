@@ -176,6 +176,7 @@
 | Day 78 | 2025-09-25 | Burning Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/burning-tree/1) | ✅ |
 | Day 79 | 2025-09-26 | Top View of Binary Tree | GFG | [Problem](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ |
 | Day 80 | 2025-09-27 | Max Path Sum 2 Special Nodes | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum/1) | ✅ |
+| Day 81 | 2025-09-28 | Longest Bounded-Difference Subarray | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) | ✅ |
 
 
 
