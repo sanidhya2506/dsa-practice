@@ -178,6 +178,7 @@
 | Day 80 | 2025-09-27 | Max Path Sum 2 Special Nodes | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum/1) | ✅ |
 | Day 81 | 2025-09-28 | Longest Bounded-Difference Subarray | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) | ✅ |
 | Day 82 | 2025-09-29 | Rat in a Maze | GFG | [Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | ✅ |
+| Day 83 | 2025-09-30 | Generate all binary strings | GFG | [Problem](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | ✅ |
 
 
 
