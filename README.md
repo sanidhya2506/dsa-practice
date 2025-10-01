@@ -179,7 +179,7 @@
 | Day 81 | 2025-09-28 | Longest Bounded-Difference Subarray | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) | ✅ |
 | Day 82 | 2025-09-29 | Rat in a Maze | GFG | [Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | ✅ |
 | Day 83 | 2025-09-30 | Generate all binary strings | GFG | [Problem](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | ✅ |
-
+| Day 84 | 2025-10-1 | Reverse a linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | ✅ |
 
 
 
