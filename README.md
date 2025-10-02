@@ -180,7 +180,7 @@
 | Day 82 | 2025-09-29 | Rat in a Maze | GFG | [Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | ✅ |
 | Day 83 | 2025-09-30 | Generate all binary strings | GFG | [Problem](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | ✅ |
 | Day 84 | 2025-10-1 | Reverse a linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | ✅ |
-
+| Day 85 | 2025-10-2 | Stock buy and sell| GFG | [Problem](http://geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | ✅ |
 
 
 ---
