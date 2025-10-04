@@ -182,6 +182,7 @@
 | Day 84 | 2025-10-1 | Reverse a linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | ✅ |
 | Day 85 | 2025-10-2 | Stock buy and sell| GFG | [Problem](http://geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | ✅ |
 | Day 86 | 2025-10-3 | Smallest distinct window| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1) | ✅ |
+| Day 87 | 2025-10-4 | Triplet Sum in Array | GFG | [Problem](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | ✅ |
 
 
 ---
