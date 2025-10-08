@@ -186,7 +186,7 @@
 | Day 88 | 2025-10-5 | Next Smaller Element | GFG | [Problem](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | ✅ |
 | Day 89 | 2025-10-6 | Flattening a Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | ✅ |
 | Day 90 | 2025-10-7 | Count Pairs in an Array | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-in-an-array4145/1) | ✅ |
-
+| Day 91 | 2025-10-8| Print all LCS sequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | ✅ |
 
 
 
