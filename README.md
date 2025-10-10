@@ -188,7 +188,7 @@
 | Day 90 | 2025-10-7 | Count Pairs in an Array | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-in-an-array4145/1) | ✅ |
 | Day 91 | 2025-10-8| Print all LCS sequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | ✅ |
 | Day 92 | 2025-10-9| Add 1 to a Linked List Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | ✅ |
-
+| Day 93 | 2025-10-10| Longest Increasing Subsequence| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | ✅ |
 
 
 
