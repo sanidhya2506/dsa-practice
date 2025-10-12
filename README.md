@@ -190,7 +190,7 @@
 | Day 92 | 2025-10-9| Add 1 to a Linked List Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | ✅ |
 | Day 93 | 2025-10-10| Longest Increasing Subsequence| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | ✅ |
 | Day 94 | 2025-10-11| The Painter's Partition Problem-II| GFG | [Problem](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | ✅ |
-
+| Day 95 | 2025-10-12| Diameter of a Binary Tree| GFG | [Problem](http://geeksforgeeks.org/problems/diameter-of-binary-tree/1) | ✅ |
 
 
 
