@@ -194,7 +194,7 @@
 | Day 96 | 2025-10-13| Job Sequencing Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | ✅ |
 | Day 97 | 2025-10-14| Closest Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/closest-palindrome4519/1) | ✅ |
 | Day 98 | 2025-10-15|Histogram Max Rectangular Area| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1) | ✅ |
-
+| Day 99 | 2025-10-16|Min Chars to Add for Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1) | ✅ |
 
 
 
