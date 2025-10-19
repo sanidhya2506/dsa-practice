@@ -197,8 +197,7 @@
 | Day 99 | 2025-10-16|Min Chars to Add for Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1) | ✅ |
 | Day 100 | 2025-10-17|Longest valid Parentheses| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1) | ✅ |
 | Day 101 | 2025-10-18|Reverse array in groups| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | ✅ |
-
-
+| Day 102 | 2025-10-19 |The Celebrity Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | ✅ |
 
 ---
 
