@@ -198,6 +198,8 @@
 | Day 100 | 2025-10-17|Longest valid Parentheses| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1) | ✅ |
 | Day 101 | 2025-10-18|Reverse array in groups| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | ✅ |
 | Day 102 | 2025-10-19 |The Celebrity Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | ✅ |
+| Day 103 | 2025-10-20 |Find the String| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-string/1) | ✅ |
+
 
 ---
 
