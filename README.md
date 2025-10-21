@@ -199,6 +199,7 @@
 | Day 101 | 2025-10-18|Reverse array in groups| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | ✅ |
 | Day 102 | 2025-10-19 |The Celebrity Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | ✅ |
 | Day 103 | 2025-10-20 |Find the String| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-string/1) | ✅ |
+| Day 104 | 2025-10-21 |Add Number Linked Lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) | ✅ |
 
 
 ---
