@@ -201,7 +201,7 @@
 | Day 103 | 2025-10-20 |Find the String| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-string/1) | ✅ |
 | Day 104 | 2025-10-21 |Add Number Linked Lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) | ✅ |
 | Day 105 | 2025-10-22 |Number of distinct subsequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1) | ✅ |
-
+| Day 106 | 2025-10-23 |Stock span problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | ✅ |
 
 ---
 
