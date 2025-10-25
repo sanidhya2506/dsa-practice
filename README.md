@@ -203,6 +203,14 @@
 | Day 105 | 2025-10-22 |Number of distinct subsequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1) | ✅ |
 | Day 106 | 2025-10-23 |Stock span problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | ✅ |
 | Day 107 | 2025-10-24 |Count Smaller elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-smaller-elements2214/1) | ✅ |
+| Day 108 | 2025-10-25 |Count of Smaller elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1?page=1&sortBy=difficulty) | ✅ |
+
+
+
+
+
+
+
 
 ---
 
