@@ -207,7 +207,7 @@
 | Day 109 | 2025-10-27 |Soreted array search | GFG | [Problem](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | ✅ |
 | Day 110 | 2025-10-28 |Find Kth Rotation | GFG | [Problem](https://www.geeksforgeeks.org/problems/rotation4723/1) | ✅ |
 | Day 111 | 2025-10-29 |Roman Number to Integer | GFG | [Problem](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1?page=1&category=Strings&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 112 | 2025-10-30 |Recursively Remove Adjacent Duplicates | GFG | [Problem](https://www.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1) | ✅ |
 
 
 
