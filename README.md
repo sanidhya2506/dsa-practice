@@ -210,6 +210,7 @@
 | Day 112 | 2025-10-30 |Recursively Remove Adjacent Duplicates | GFG | [Problem](https://www.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1) | ✅ |
 | Day 113 | 2025-10-31 |Linked List that is Sorted Alternatingly | GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1) | ✅ |
 | Day 114 | 2025-11-1 |Longest Consecutive Subsequence | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | ✅ |
+| Day 115 | 2025-11-2 |Next Greater Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | ✅ |
 
 
 
