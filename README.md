@@ -213,7 +213,7 @@
 | Day 115 | 2025-11-2 |Next Greater Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | ✅ |
 | Day 116 | 2025-11-3 |Binary Tree to CDLL| GFG | [Problem](http://geeksforgeeks.org/problems/binary-tree-to-cdll/1) | ✅ |
 | Day 117 | 2025-11-4 |Anagram| GFG | [Problem](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | ✅ |
-
+| Day 118 | 2025-11-5 |Coin Change (Count Ways)| GFG | [Problem](https://www.geeksforgeeks.org/problems/coin-change2448/1) | ✅ |
 
 
 ---
