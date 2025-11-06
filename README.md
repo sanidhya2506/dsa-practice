@@ -214,7 +214,7 @@
 | Day 116 | 2025-11-3 |Binary Tree to CDLL| GFG | [Problem](http://geeksforgeeks.org/problems/binary-tree-to-cdll/1) | ✅ |
 | Day 117 | 2025-11-4 |Anagram| GFG | [Problem](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | ✅ |
 | Day 118 | 2025-11-5 |Coin Change (Count Ways)| GFG | [Problem](https://www.geeksforgeeks.org/problems/coin-change2448/1) | ✅ |
-
+| Day 119 | 2025-11-6 |Spirally traversing a matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ |
 
 ---
 
