@@ -216,7 +216,7 @@
 | Day 118 | 2025-11-5 |Coin Change (Count Ways)| GFG | [Problem](https://www.geeksforgeeks.org/problems/coin-change2448/1) | ✅ |
 | Day 119 | 2025-11-6 |Spirally traversing a matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ |
 | Day 120 | 2025-11-7 |Sum Tree | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-tree/1) | ✅ |
-
+| Day 121 | 2025-11-8 |Power Of Numbers | GFG | [Problem](http://geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | ✅ |
 
 
 ---
