@@ -217,7 +217,7 @@
 | Day 119 | 2025-11-6 |Spirally traversing a matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ |
 | Day 120 | 2025-11-7 |Sum Tree | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-tree/1) | ✅ |
 | Day 121 | 2025-11-8 |Power Of Numbers | GFG | [Problem](http://geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | ✅ |
-
+| Day 122 | 2025-11-9 |Largest BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-bst/1) | ✅ |
 
 ---
 
