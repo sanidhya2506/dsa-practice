@@ -223,6 +223,7 @@
 | Day 125 | 2025-11-12 |K Sized Subarray Maximum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | ✅ |
 | Day 126 | 2025-11-13 |Row with max 1s| GFG | [Problem](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | ✅ |
 | Day 127 | 2025-11-14 |Stock Buy and Sell – Max 2 Transactions Allowed| GFG | [Problem](https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1) | ✅ |
+| Day 128 | 2025-11-15 |Articulation Point - I | GFG | [Problem](https://www.geeksforgeeks.org/problems/articulation-point-1/1) | ✅ |
 
 
 
