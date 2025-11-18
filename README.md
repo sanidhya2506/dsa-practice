@@ -226,6 +226,11 @@
 | Day 128 | 2025-11-15 |Articulation Point - I | GFG | [Problem](https://www.geeksforgeeks.org/problems/articulation-point-1/1) | ✅ |
 | Day 129 | 2025-11-16 |Palindromic Partitioning | GFG | [Problem](https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1) | ✅ |
 | Day 130 | 2025-11-17 |Rotate a Linked List | GFG | [Problem](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | ✅ |
+| Day 131 | 2025-11-18 |Count of Subarrays | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-of-subarrays5922/1) | ✅ |
+
+
+
+
 
 ---
 
