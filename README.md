@@ -229,7 +229,8 @@
 | Day 131 | 2025-11-18 |Count of Subarrays | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-of-subarrays5922/1) | ✅ |
 | Day 132 | 2025-11-19 |Aubarray with 0 sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | ✅ |
 | Day 133 | 2025-11-20 |Merge Without Extra Space| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | ✅ |
-
+| Day 134 | 2025-11-21 |Two Sum - Pair with given Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ |
+| Day 134 | 2025-11-21 |Union of aarrays| GFG | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | ✅ |
 
 
 ---
