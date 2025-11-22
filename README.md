@@ -231,7 +231,7 @@
 | Day 133 | 2025-11-20 |Merge Without Extra Space| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | ✅ |
 | Day 134 | 2025-11-21 |Two Sum - Pair with given Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ |
 | Day 134 | 2025-11-21 |Union of aarrays| GFG | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | ✅ |
-
+| Day 135 | 2025-11-22 |Stickler Thief| GFG | [Problem](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | ✅ |
 
 ---
 
