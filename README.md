@@ -232,6 +232,12 @@
 | Day 134 | 2025-11-21 |Two Sum - Pair with given Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ |
 | Day 134 | 2025-11-21 |Union of aarrays| GFG | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | ✅ |
 | Day 135 | 2025-11-22 |Stickler Thief| GFG | [Problem](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | ✅ |
+| Day 136 | 2025-11-23 |Substrings with K Distinct | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ |
+
+
+
+
+
 
 ---
 
