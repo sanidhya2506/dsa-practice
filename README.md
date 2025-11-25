@@ -234,6 +234,7 @@
 | Day 135 | 2025-11-22 |Stickler Thief| GFG | [Problem](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | ✅ |
 | Day 136 | 2025-11-23 |Substrings with K Distinct | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ |
 | Day 137 | 2025-11-24 |Get Min from Stack| GFG | [Problem](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) | ✅ |
+| Day 138 | 2025-11-25 |Detect Loop in linked list| GFG | [Problem](http://geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | ✅ |
 
 
 
