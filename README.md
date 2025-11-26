@@ -235,7 +235,7 @@
 | Day 136 | 2025-11-23 |Substrings with K Distinct | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ |
 | Day 137 | 2025-11-24 |Get Min from Stack| GFG | [Problem](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) | ✅ |
 | Day 138 | 2025-11-25 |Detect Loop in linked list| GFG | [Problem](http://geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | ✅ |
-
+| Day 139 | 2025-11-26 |Frog Jump| GFG | [Problem](https://www.geeksforgeeks.org/problems/geek-jump/1?page=1&category=Arrays&difficulty=Medium&status=unsolved&sortBy=submissions) | ✅ |
 
 
 
