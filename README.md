@@ -238,6 +238,43 @@
 | Day 139 | 2025-11-26 |Frog Jump| GFG | [Problem](https://www.geeksforgeeks.org/problems/geek-jump/1?page=1&category=Arrays&difficulty=Medium&status=unsolved&sortBy=submissions) | ✅ |
 | Day 140 | 2025-11-27 |First Repeating Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-repeating-element4018/1) | ✅ |
 | Day 140 | 2025-11-27 |Union of Arrays with Duplicates| GFG | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | ✅ |
+| Day 141 | 2025-11-28 |Largest number in K swaps| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
