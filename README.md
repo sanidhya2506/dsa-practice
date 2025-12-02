@@ -243,7 +243,8 @@
 | Day 143 | 2025-11-29|Frequencies in a Limited Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | ✅ |
 | Day 143| 2025-11-30|Implement stack using array| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | ✅ |
 | Day 144| 2025-12-1|String Rotated by 2 Places| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) | ✅ |
-
+| Day 145| 2025-12-2|Multiply two strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) | ✅ |
+| Day 145| 2025-12-2|Add Binary Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) | ✅ |
 
 
 
