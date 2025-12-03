@@ -245,7 +245,7 @@
 | Day 144| 2025-12-1|String Rotated by 2 Places| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) | ✅ |
 | Day 145| 2025-12-2|Multiply two strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) | ✅ |
 | Day 145| 2025-12-2|Add Binary Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) | ✅ |
-
+| Day 146| 2025-12-3|nCr| GFG | [Problem](https://www.geeksforgeeks.org/problems/ncr1019/1?page=1&status=unsolved&sortBy=submissions) | ✅ |
 
 
 
