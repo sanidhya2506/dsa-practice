@@ -246,7 +246,7 @@
 | Day 145| 2025-12-2|Multiply two strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/add-binary-strings3805/1) | ✅ |
 | Day 145| 2025-12-2|Add Binary Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) | ✅ |
 | Day 146| 2025-12-3|nCr| GFG | [Problem](https://www.geeksforgeeks.org/problems/ncr1019/1?page=1&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 147| 2025-12-4|Find Triplets with zero sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) | ✅ |
 
 
 
