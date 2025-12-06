@@ -248,7 +248,8 @@
 | Day 146| 2025-12-3|nCr| GFG | [Problem](https://www.geeksforgeeks.org/problems/ncr1019/1?page=1&status=unsolved&sortBy=submissions) | ✅ |
 | Day 147| 2025-12-4|Find Triplets with zero sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) | ✅ |
 | Day 148| 2025-12-5|Count the reversals| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-reversals0401/1) | ✅ |
-
+| Day 149| 2025-12-6|Prime Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/prime-number2314/1) | ✅ |
+| Day 149| 2025-12-6|Subset Sum Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ |
 
 
 
