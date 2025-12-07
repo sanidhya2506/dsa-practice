@@ -250,7 +250,7 @@
 | Day 148| 2025-12-5|Count the reversals| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-reversals0401/1) | ✅ |
 | Day 149| 2025-12-6|Prime Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/prime-number2314/1) | ✅ |
 | Day 149| 2025-12-6|Subset Sum Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ |
-
+| Day 150| 2025-12-7|Search Pattern Z-algorithm| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-z-algorithm--141631/1) | ✅ |
 
 
 
