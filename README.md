@@ -252,7 +252,7 @@
 | Day 149| 2025-12-6|Subset Sum Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ |
 | Day 150| 2025-12-7|Search Pattern Z-algorithm| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-z-algorithm--141631/1) | ✅ |
 | Day 151| 2025-12-8|Valid Substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/valid-substring0624/1) | ✅ |
-
+| Day 152| 2025-12-9|Construct Tree from preorder and inoreder| GFG | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) | ✅ |
 
 
 
