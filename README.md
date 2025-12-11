@@ -254,6 +254,7 @@
 | Day 151| 2025-12-8|Valid Substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/valid-substring0624/1) | ✅ |
 | Day 152| 2025-12-9|Construct Tree from preorder and inoreder| GFG | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) | ✅ |
 | Day 153| 2025-12-10|product array puzzle| GFG | [Problem](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | ✅ |
+| Day 154| 2025-12-11|level order traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | ✅ |
 
 
 
