@@ -258,7 +258,7 @@
 | Day 155| 2025-12-12|Search in Rotated Soreted Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | ✅ |
 | Day 156| 2025-12-13|Binary to DLL| GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1) | ✅ |
 | Day 157| 2025-12-14|Minimum Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-sum4058/1) | ✅ |
-
+| Day 158| 2025-12-15|Implememnt Atoi| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-atoi/1) | ✅ |
 
 
 
