@@ -261,7 +261,7 @@
 | Day 158| 2025-12-15|Implememnt Atoi| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-atoi/1) | ✅ |
 | Day 159| 2025-12-16|Circle in String| GFG | [Problem](https://www.geeksforgeeks.org/problems/circle-of-strings4530/1) | ✅ |
 | Day 160| 2025-12-17|Partition Equal Subset Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) | ✅ |
-
+| Day 161| 2025-12-18|Clone List with Next and Random| GFG | [Problem](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1) | ✅ |
 
 
 
