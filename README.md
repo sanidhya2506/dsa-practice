@@ -264,6 +264,7 @@
 | Day 161| 2025-12-18|Clone List with Next and Random| GFG | [Problem](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1) | ✅ |
 | Day 162| 2025-12-19|Rearrange Array Alternately| GFG | [Problem](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | ✅ |
 | Day 163| 2025-12-20|Fixing Two nodes of a BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1) | ✅ |
+| Day 164| 2025-12-21|Next Permutation| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | ✅ |
 
 
 
