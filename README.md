@@ -266,6 +266,8 @@
 | Day 163| 2025-12-20|Fixing Two nodes of a BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1) | ✅ |
 | Day 164| 2025-12-21|Next Permutation| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | ✅ |
 | Day 165| 2025-12-22|Min distance between two given nodes of a Binary Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1) | ✅ |
+| Day 166| 2025-12-23|Sqrt(x)| Leetcode | [Problem](https://leetcode.com/problems/sqrtx/description/) | ✅ |
+| Day 166| 2025-12-23|Intersection in Y Shaped Lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ |
 
 
 
