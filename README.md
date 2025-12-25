@@ -269,7 +269,7 @@
 | Day 166| 2025-12-23|Sqrt(x)| Leetcode | [Problem](https://leetcode.com/problems/sqrtx/description/) | ✅ |
 | Day 166| 2025-12-23|Intersection in Y Shaped Lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ |
 | Day 167| 2025-12-24|Word Wrap| GFG | [Problem](https://www.geeksforgeeks.org/problems/word-wrap1646/1) | ✅ |
-
+| Day 168| 2025-12-25|Longest Substring with K Uniques| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | ✅ |
 
 
 
