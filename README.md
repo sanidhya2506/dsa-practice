@@ -272,7 +272,7 @@
 | Day 168| 2025-12-25|Longest Substring with K Uniques| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | ✅ |
 | Day 169| 2025-12-26|Find Transition Points| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1) | ✅ |
 | Day 170| 2025-12-27|Split Arary Largest Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1) | ✅ |
-
+| Day 171| 2025-12-28|Partitions with Given Difference| GFG | [Problem](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | ✅ |
 
 
 
