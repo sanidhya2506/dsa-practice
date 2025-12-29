@@ -273,7 +273,7 @@
 | Day 169| 2025-12-26|Find Transition Points| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-transition-point-1587115620/1) | ✅ |
 | Day 170| 2025-12-27|Split Arary Largest Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1) | ✅ |
 | Day 171| 2025-12-28|Partitions with Given Difference| GFG | [Problem](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | ✅ |
-
+| Day 172| 2025-12-29|Children Sum in a Binary Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | ✅ |
 
 
 
