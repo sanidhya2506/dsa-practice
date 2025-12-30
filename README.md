@@ -274,7 +274,7 @@
 | Day 170| 2025-12-27|Split Arary Largest Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1) | ✅ |
 | Day 171| 2025-12-28|Partitions with Given Difference| GFG | [Problem](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | ✅ |
 | Day 172| 2025-12-29|Children Sum in a Binary Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | ✅ |
-
+| Day 173| 2025-12-30|Activity Selection| GFG | [Problem](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | ✅ |
 
 
 
