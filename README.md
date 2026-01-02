@@ -277,7 +277,7 @@
 | Day 173| 2025-12-30|Activity Selection| GFG | [Problem](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | ✅ |
 | Day 174| 2025-12-31|Merge sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-sort/1) | ✅ |
 | Day 175| 2026-1-1|Next Smallest Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1) | ✅ |
-
+| Day 176| 2026-1-2|Maximum Index| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index3307/1) | ✅ |
 
 
 
