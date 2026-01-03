@@ -278,7 +278,7 @@
 | Day 174| 2025-12-31|Merge sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-sort/1) | ✅ |
 | Day 175| 2026-1-1|Next Smallest Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1) | ✅ |
 | Day 176| 2026-1-2|Maximum Index| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index3307/1) | ✅ |
-
+| Day 177| 2026-1-3|Armstrong number| GFG | [Problem](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | ✅ |
 
 
 
