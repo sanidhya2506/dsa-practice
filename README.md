@@ -279,7 +279,8 @@
 | Day 175| 2026-1-1|Next Smallest Palindrome| GFG | [Problem](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1) | ✅ |
 | Day 176| 2026-1-2|Maximum Index| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index3307/1) | ✅ |
 | Day 177| 2026-1-3|Armstrong number| GFG | [Problem](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | ✅ |
-
+| Day 178| 2026-1-4|Lower Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1) | ✅ |
+| Day 178| 2026-1-4|Upper Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1) | ✅ |
 
 
 
