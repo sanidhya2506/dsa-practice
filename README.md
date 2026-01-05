@@ -281,7 +281,7 @@
 | Day 177| 2026-1-3|Armstrong number| GFG | [Problem](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | ✅ |
 | Day 178| 2026-1-4|Lower Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1) | ✅ |
 | Day 178| 2026-1-4|Upper Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1) | ✅ |
-
+| Day 179| 2026-1-5|Winner of an election| GFG | [Problem](https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1) | ✅ |
 
 
 
