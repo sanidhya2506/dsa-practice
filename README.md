@@ -282,7 +282,7 @@
 | Day 178| 2026-1-4|Lower Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1) | ✅ |
 | Day 178| 2026-1-4|Upper Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1) | ✅ |
 | Day 179| 2026-1-5|Winner of an election| GFG | [Problem](https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1) | ✅ |
-
+| Day 180| 2026-1-6|Length of longest substring| GFG | [Problem](https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1) | ✅ |
 
 
 
