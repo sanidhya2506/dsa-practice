@@ -283,8 +283,8 @@
 | Day 178| 2026-1-4|Upper Case| GFG | [Problem](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1) | ✅ |
 | Day 179| 2026-1-5|Winner of an election| GFG | [Problem](https://www.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1) | ✅ |
 | Day 180| 2026-1-6|Length of longest substring| GFG | [Problem](https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1) | ✅ |
-| Day 181| 2026-1-7|Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/repeated-character2058/1?page=1&category=Strings&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 181| 2026-1-7|Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/repeated-character2058/1) | ✅ |
+| Day 182| 2026-1-8|First Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-first-repeated-character4108/1) | ✅ |
 
 
 
