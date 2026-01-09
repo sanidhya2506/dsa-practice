@@ -285,7 +285,7 @@
 | Day 180| 2026-1-6|Length of longest substring| GFG | [Problem](https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1) | ✅ |
 | Day 181| 2026-1-7|Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/repeated-character2058/1) | ✅ |
 | Day 182| 2026-1-8|First Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-first-repeated-character4108/1) | ✅ |
-
+| Day 183| 2026-1-9|k-Anagram| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1?page=4&category=Strings&sortBy=submissions) | ✅ |
 
 
 ---
