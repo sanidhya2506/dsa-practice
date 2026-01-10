@@ -286,6 +286,45 @@
 | Day 181| 2026-1-7|Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/repeated-character2058/1) | ✅ |
 | Day 182| 2026-1-8|First Repeated Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-first-repeated-character4108/1) | ✅ |
 | Day 183| 2026-1-9|k-Anagram| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1?page=4&category=Strings&sortBy=submissions) | ✅ |
+| Day 184| 2026-1-10|Print Anagram Together| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
