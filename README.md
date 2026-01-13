@@ -289,7 +289,7 @@
 | Day 184| 2026-1-10|Print Anagram Together| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | ✅ |
 | Day 185| 2026-1-11|Shortest Source to Destination Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1) | ✅ |
 | Day 186| 2026-1-12|Most Frequent Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1?page=2&category=Strings&sortBy=submissions) | ✅ |
-
+| Day 187| 2026-1-13|Palindromic array| GFG | [Problem](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | ✅ |
 
 
 
