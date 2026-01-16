@@ -292,7 +292,7 @@
 | Day 187| 2026-1-13|Palindromic array| GFG | [Problem](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | ✅ |
 | Day 188| 2026-1-14|Majority Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/majority-vote/1?page=3&status=unsolved&sortBy=submissions) | ✅ |
 | Day 189| 2026-1-15|Smallest Positive Missing| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | ✅ |
-
+| Day 190| 2026-1-16|Perfect Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/perfect-number3759/1) | ✅ |
 
 
 
