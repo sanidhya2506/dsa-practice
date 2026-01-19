@@ -294,8 +294,8 @@
 | Day 189| 2026-1-15|Smallest Positive Missing| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | ✅ |
 | Day 190| 2026-1-16|Perfect Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/perfect-number3759/1) | ✅ |
 | Day 191| 2026-1-17|Sum of numbers in strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) | ✅ |
-| Day 192| 2026-1-18|Level Order in spiral form| GFG | [Problem](http://geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1?page=2&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 192| 2026-1-18|Level Order in spiral form| GFG | [Problem](http://geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) | ✅ |
+| Day 193| 2026-1-19|Reverse an Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | ✅ |
 
 
 
