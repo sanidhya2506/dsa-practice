@@ -298,7 +298,7 @@
 | Day 193| 2026-1-19|Reverse an Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | ✅ |
 | Day 194| 2026-1-20|Perfect Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/perfect-numbers3207/1) | ✅ |
 | Day 195| 2026-1-21|First and Last Occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | ✅ |
-
+| Day 196| 2026-1-22|Maximum Indexs| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) | ✅ |
 
 
 
