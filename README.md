@@ -300,7 +300,7 @@
 | Day 195| 2026-1-21|First and Last Occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | ✅ |
 | Day 196| 2026-1-22|Maximum Indexs| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) | ✅ |
 | Day 197| 2026-1-23|Form The Largest Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) | ✅ |
-
+| Day 198| 2026-1-24|Max sum subarray by removing at most one element| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1?page=1&sortBy=submissions) | ✅ |
 
 
 
