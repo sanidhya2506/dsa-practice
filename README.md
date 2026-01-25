@@ -301,6 +301,7 @@
 | Day 196| 2026-1-22|Maximum Indexs| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1) | ✅ |
 | Day 197| 2026-1-23|Form The Largest Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) | ✅ |
 | Day 198| 2026-1-24|Max sum subarray by removing at most one element| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-by-removing-at-most-one-element/1?page=1&sortBy=submissions) | ✅ |
+| Day 199| 2026-1-25|Longest common prefix of strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | ✅ |
 
 
 
