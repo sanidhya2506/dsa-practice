@@ -305,7 +305,7 @@
 | Day 200| 2026-1-26|Bitonic Point| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) | ✅ |
 | Day 201| 2026-1-27|Alternate Positive Negative| GFG | [Problem](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=1&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 | Day 202| 2026-1-28|Pythagorean Triplet| GFG | [Problem](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1?page=2&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 203| 2026-1-29|Zero sum subarrays | GFG | [Problem](https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1?page=2&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 
 
 
