@@ -307,7 +307,7 @@
 | Day 202| 2026-1-28|Pythagorean Triplet| GFG | [Problem](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1?page=2&status=unsolved&sortBy=submissions) | ✅ |
 | Day 203| 2026-1-29|Zero sum subarrays | GFG | [Problem](https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1?page=2&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 | Day 204| 2026-1-30|Intersection of Arrays with Distinct| GFG | [Problem](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1?page=1&company=Amazon&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 205| 2026-1-31|At least k occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1?page=1&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 
 
 
