@@ -311,7 +311,7 @@
 | Day 206| 2026-2-1|Minimum swaps and K together| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1) | ✅ |
 | Day 207| 2026-2-2|Index of extra element | GFG | [Problem](https://www.geeksforgeeks.org/problems/index-of-an-extra-element/1) | ✅ |
 | Day 208| 2026-2-3|Sum of Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-array2326/1) | ✅ |
-
+| Day 209| 2026-2-4|Maximum Sub Array| GFG | [Problem](http://geeksforgeeks.org/problems/maximum-sub-array5443/1) | ✅ |
 
 
 
