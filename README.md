@@ -313,6 +313,7 @@
 | Day 208| 2026-2-3|Sum of Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-array2326/1) | ✅ |
 | Day 209| 2026-2-4|Maximum Sub Array| GFG | [Problem](http://geeksforgeeks.org/problems/maximum-sub-array5443/1) | ✅ |
 | Day 210| 2026-2-5|Left Smaller Right Greater| GFG | [Problem](https://www.geeksforgeeks.org/problems/unsorted-array4925/1) | ✅ |
+| Day 211| 2026-2-6|Left Smaller Right Greater| GFG | [Problem](https://www.geeksforgeeks.org/problems/three-way-partitioning/1?page=1&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 
 
 
