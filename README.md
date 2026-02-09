@@ -316,7 +316,7 @@
 | Day 211| 2026-2-6|Left Smaller Right Greater| GFG | [Problem](https://www.geeksforgeeks.org/problems/three-way-partitioning/1?page=1&category=Arrays&status=unsolved&sortBy=submissions) | ✅ |
 | Day 212| 2026-2-7|Search in Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/searching-a-number0324/1) | ✅ |
 | Day 213| 2026-2-8|Odd or Even| GFG | [Problem](https://www.geeksforgeeks.org/problems/searching-a-number0324/1) | ✅ |
-
+| Day 214| 2026-2-9|Max Sum Increasing Subsequence | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | ✅ |
 
 
 
