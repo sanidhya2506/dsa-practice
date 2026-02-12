@@ -319,7 +319,7 @@
 | Day 214| 2026-2-9|Max Sum Increasing Subsequence | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | ✅ |
 | Day 215| 2026-2-10|Coin Change (Minimum Coins)| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-coins1824/1?page=1&status=unsolved&sortBy=submissions) | ✅ |
 | Day 216| 2026-2-11|Maximize The Cut Segments| GFG | [Problem](https://www.geeksforgeeks.org/problems/cutted-segments1642/1?page=1&status=unsolved&sortBy=submissions) | ✅ |
-
+| Day 217| 2026-2-12|Count set bits| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1) | ✅ |
 
 
 
