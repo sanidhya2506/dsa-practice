@@ -323,7 +323,7 @@
 | Day 218| 2026-2-13|Bellman-Ford| GFG | [Problem](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | ✅ |
 | Day 219| 2026-2-14|Remove duplicates from a linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1?page=1&category=Linked%20List&sortBy=submissions) | ✅ |
 | Day 220| 2026-2-15|String Duplicates Removal| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | ✅ |
-
+| Day 221| 2026-2-16|Find nth root of m| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | ✅ |
 
 
 
