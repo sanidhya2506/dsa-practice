@@ -325,7 +325,7 @@
 | Day 220| 2026-2-15|String Duplicates Removal| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | ✅ |
 | Day 221| 2026-2-16|Find nth root of m| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | ✅ |
 | Day 222| 2026-2-17|Non-Repeating Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ |
-
+| Day 223| 2026-2-18|Reverse each word in a given string| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1) | ✅ |
 
 
 
