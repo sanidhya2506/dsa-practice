@@ -327,7 +327,7 @@
 | Day 222| 2026-2-17|Non-Repeating Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/non-repeating-element3958/1) | ✅ |
 | Day 223| 2026-2-18|Reverse each word in a given string| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/1) | ✅ |
 | Day 224| 2026-2-19|Chocolate Distribution Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | ✅ |
-
+| Day 225| 2026-2-20|Wildcard Pattern Matching| GFG | [Problem](https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | ✅ |
 
 
 
