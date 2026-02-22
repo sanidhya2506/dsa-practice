@@ -329,7 +329,7 @@
 | Day 224| 2026-2-19|Chocolate Distribution Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | ✅ |
 | Day 225| 2026-2-20|Wildcard Pattern Matching| GFG | [Problem](https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | ✅ |
 | Day 226| 2026-2-21|Minimum distance in an Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | ✅ |
-
+| Day 227| 2026-2-22|Check K-th Bit| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | ✅ |
 
 
 ---
