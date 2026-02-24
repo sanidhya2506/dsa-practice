@@ -331,6 +331,10 @@
 | Day 226| 2026-2-21|Minimum distance in an Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | ✅ |
 | Day 227| 2026-2-22|Check K-th Bit| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | ✅ |
 | Day 228| 2026-2-23|Floyd Warshall| GFG | [Problem](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | ✅ |
+| Day 229| 2026-2-24|Minimum Cost of ropes| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | ✅ |
+
+
+
 
 ---
 
