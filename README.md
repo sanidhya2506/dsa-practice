@@ -334,6 +334,47 @@
 | Day 229| 2026-2-24|Minimum Cost of ropes| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | ✅ |
 | Day 230| 2026-2-25|Value equal to index value| GFG | [Problem](https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | ✅ |
 | Day 231| 2026-2-26|Stream First Non-repeating| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | ✅ |
+| Day 232| 2026-2-27|Mirror Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) | ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
