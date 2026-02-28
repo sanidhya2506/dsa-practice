@@ -335,6 +335,7 @@
 | Day 230| 2026-2-25|Value equal to index value| GFG | [Problem](https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1) | ✅ |
 | Day 231| 2026-2-26|Stream First Non-repeating| GFG | [Problem](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | ✅ |
 | Day 232| 2026-2-27|Mirror Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) | ✅ |
+| Day 233| 2026-2-28|Fractional Knapsack| GFG | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | ✅ |
 
 
 
