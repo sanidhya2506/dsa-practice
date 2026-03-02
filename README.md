@@ -337,7 +337,7 @@
 | Day 232| 2026-2-27|Mirror Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) | ✅ |
 | Day 233| 2026-2-28|Fractional Knapsack| GFG | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | ✅ |
 | Day 234| 2026-3-1|ZigZag Tree Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | ✅ |
-
+| Day 235| 2026-3-2|Minimum in BST| GFG | [Problem](http://geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ |
 
 
 
