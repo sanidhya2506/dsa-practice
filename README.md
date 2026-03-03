@@ -338,7 +338,7 @@
 | Day 233| 2026-2-28|Fractional Knapsack| GFG | [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | ✅ |
 | Day 234| 2026-3-1|ZigZag Tree Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | ✅ |
 | Day 235| 2026-3-2|Minimum in BST| GFG | [Problem](http://geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ |
-
+| Day 236| 2026-3-3|Selection Sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ |
 
 
 
