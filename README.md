@@ -342,7 +342,7 @@
 | Day 237| 2026-3-4|Tower of hanoi| GFG | [Problem](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | ✅ |
 | Day 238| 2026-3-5|Delete eithout head pointer | GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1) | ✅ |
 | Day 239| 2026-3-6|First Negative in every window | GFG | [Problem](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | ✅ |
-
+| Day 240| 2026-3-7| Knapsack With duplicate items | GFG | [Problem](http://geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ |
 
 
 
