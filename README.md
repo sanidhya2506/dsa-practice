@@ -344,7 +344,7 @@
 | Day 239| 2026-3-6|First Negative in every window | GFG | [Problem](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | ✅ |
 | Day 240| 2026-3-7| Knapsack With duplicate items | GFG | [Problem](http://geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ |
 | Day 241| 2026-3-8| Agressive cows | GFG | [Problem](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | ✅ |
-
+| Day 242| 2026-3-9|Count in Triplets  | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-triplets4615/1) | ✅ |
 
 
 
