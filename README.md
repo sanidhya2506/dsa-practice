@@ -348,9 +348,9 @@
 | Day 243| 2026-3-10|Vertical Tree Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) | ✅ |
 | Day 244| 2026-3-11|4Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1) | ✅ |
 | Day 245| 2026-3-12| Subset Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ |
-|Day 246 | Reverse array|
-| Day 247 | 2026-3-14| String same number at the end | [Problem ]https://www.geeksforgeeks.org/problems/string-with-numbers-at-its-end5749/1?utm_source=chatgpt.com|
-
+| Day 246| 2026-3-13| Reverse array | GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ |
+| Day 247| 2026-3-14| String same number at the end| GFG | [Problem](https://www.geeksforgeeks.org/problems/string-with-numbers-at-its-end5749/1?utm_source=chatgpt.com) | ✅ |
+| Day 248| 2026-3-15| Subset Sum| GFG | [Problem](http://geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ |
 
 
 
