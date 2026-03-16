@@ -351,7 +351,7 @@
 | Day 246| 2026-3-13| Reverse array | GFG | [Problem](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ |
 | Day 247| 2026-3-14| String same number at the end| GFG | [Problem](https://www.geeksforgeeks.org/problems/string-with-numbers-at-its-end5749/1?utm_source=chatgpt.com) | ✅ |
 | Day 248| 2026-3-15| Subset Sum| GFG | [Problem](http://geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ |
-
+| Day 249| 2026-3-16| M Coloring Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | ✅ |
 
 
 
