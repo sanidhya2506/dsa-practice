@@ -352,7 +352,7 @@
 | Day 247| 2026-3-14| String same number at the end| GFG | [Problem](https://www.geeksforgeeks.org/problems/string-with-numbers-at-its-end5749/1?utm_source=chatgpt.com) | ✅ |
 | Day 248| 2026-3-15| Subset Sum| GFG | [Problem](http://geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ |
 | Day 249| 2026-3-16| M Coloring Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | ✅ |
-
+| Day 250| 2026-3-17| Quick Sort | GFG | [Problem](https://www.geeksforgeeks.org/problems/quick-sort/1) | ✅ |
 
 
 
