@@ -353,7 +353,7 @@
 | Day 248| 2026-3-15| Subset Sum| GFG | [Problem](http://geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ |
 | Day 249| 2026-3-16| M Coloring Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | ✅ |
 | Day 250| 2026-3-17| Quick Sort | GFG | [Problem](https://www.geeksforgeeks.org/problems/quick-sort/1) | ✅ |
-
+| Day 251| 2026-3-18| LCA in Binary Tree | GFG | [Problem](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | ✅ |
 
 
 
