@@ -359,7 +359,7 @@
 | Day 254| 2026-3-21| Longest Common Subsequence | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | ✅ |
 | Day 255| 2026-3-22| Lowest Common Ancestor in a BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | ✅ |
 | Day 256| 2026-3-23| Inorder Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) | ✅ |
-
+| Day 257| 2026-3-24| Serialize and deserialize a BT| GFG | [Problem](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | ✅ |
 
 
 
