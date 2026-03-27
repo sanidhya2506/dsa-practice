@@ -362,6 +362,7 @@
 | Day 257| 2026-3-24| Serialize and deserialize a BT| GFG | [Problem](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) | ✅ |
 | Day 258| 2026-3-25| Rotten Oranges| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) | ✅ |
 | Day 259| 2026-3-26| K Sum Paths | GFG | [Problem](https://www.geeksforgeeks.org/problems/k-sum-paths/1) | ✅ |
+| Day 260| 2026-3-27| Median in a row wise sorted matrix | GFG | [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | ✅ |
 
 
 
