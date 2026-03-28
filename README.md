@@ -363,6 +363,7 @@
 | Day 258| 2026-3-25| Rotten Oranges| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) | ✅ |
 | Day 259| 2026-3-26| K Sum Paths | GFG | [Problem](https://www.geeksforgeeks.org/problems/k-sum-paths/1) | ✅ |
 | Day 260| 2026-3-27| Median in a row wise sorted matrix | GFG | [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | ✅ |
+| Day 261| 2026-3-28|Flood Fill Algorithm | GFG | [Problem](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1) | ✅ |
 
 
 
