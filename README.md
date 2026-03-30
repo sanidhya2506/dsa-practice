@@ -365,7 +365,7 @@
 | Day 260| 2026-3-27| Median in a row wise sorted matrix | GFG | [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | ✅ |
 | Day 261| 2026-3-28|Flood Fill Algorithm | GFG | [Problem](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1) | ✅ |
 | Day 262| 2026-3-29|Rod Cutting | GFG | [Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | ✅ |
-
+| Day 263| 2026-3-30|Rod Cutting | GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | ✅ |
 
 
 
