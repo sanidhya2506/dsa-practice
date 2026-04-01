@@ -367,6 +367,7 @@
 | Day 262| 2026-3-29|Rod Cutting | GFG | [Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | ✅ |
 | Day 263| 2026-3-30|Rod Cutting | GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | ✅ |
 | Day 264| 2026-3-31|Minimum Swaps to Sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | ✅ |
+| Day 265| 2026-4-1|Bottom View Of Binary Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | ✅ |
 
 
 
