@@ -369,6 +369,7 @@
 | Day 264| 2026-3-31|Minimum Swaps to Sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | ✅ |
 | Day 265| 2026-4-1|Bottom View Of Binary Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | ✅ |
 | Day 266| 2026-4-2|Longest Substring With Distinct Characters| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) | ✅ |
+| Day 267| 2026-4-3|Successors and Predecessor| GFG | [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | ✅ |
 
 
 
