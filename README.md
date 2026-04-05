@@ -371,7 +371,7 @@
 | Day 266| 2026-4-2|Longest Substring With Distinct Characters| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) | ✅ |
 | Day 267| 2026-4-3|Successors and Predecessor| GFG | [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | ✅ |
 | Day 268| 2026-4-4|Merge two sorted linked lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) | ✅ |
-
+| Day 269| 2026-4-5|Minimum Miltiplications to reach end| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | ✅ |
 
 
 
