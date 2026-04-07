@@ -373,7 +373,7 @@
 | Day 268| 2026-4-4|Merge two sorted linked lists| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) | ✅ |
 | Day 269| 2026-4-5|Minimum Miltiplications to reach end| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | ✅ |
 | Day 270| 2026-4-6|Stock Buy and Sell| GFG | [Problem](http://geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | ✅ |
-
+| Day 271| 2026-4-7|Factorials of large numbers| GFG | [Problem](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | ✅ |
 
 
 
