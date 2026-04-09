@@ -375,7 +375,7 @@
 | Day 270| 2026-4-6|Stock Buy and Sell| GFG | [Problem](http://geeksforgeeks.org/problems/stock-buy-and-sell2615/1) | ✅ |
 | Day 271| 2026-4-7|Factorials of large numbers| GFG | [Problem](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | ✅ |
 | Day 272| 2026-4-8|Instertion at doubly linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | ✅ |
-
+| Day 273| 2026-4-9|Unique Number II| GFG | [Problem](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) | ✅ |
 
 
 
