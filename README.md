@@ -377,7 +377,7 @@
 | Day 272| 2026-4-8|Instertion at doubly linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | ✅ |
 | Day 273| 2026-4-9|Unique Number II| GFG | [Problem](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) | ✅ |
 | Day 274| 2026-4-10|K-th Smallest in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) | ✅ |
-
+| Day 275| 2026-4-11|Count Palindromic Subsequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | ✅ |
 
 
 
