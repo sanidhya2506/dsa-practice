@@ -378,7 +378,7 @@
 | Day 273| 2026-4-9|Unique Number II| GFG | [Problem](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) | ✅ |
 | Day 274| 2026-4-10|K-th Smallest in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) | ✅ |
 | Day 275| 2026-4-11|Count Palindromic Subsequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | ✅ |
-
+| Day 276| 2026-4-12|Find median in a strem| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) | ✅ |
 
 
 
