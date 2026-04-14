@@ -380,6 +380,7 @@
 | Day 275| 2026-4-11|Count Palindromic Subsequences| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | ✅ |
 | Day 276| 2026-4-12|Find median in a strem| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) | ✅ |
 | Day 277| 2026-4-13|Matrix Chain Multiplication| GFG | [Problem](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | ✅ |
+| Day 277| 2026-4-13| Ceil in BST| GFG | [Problem](http://geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | ✅ |
 
 
 
