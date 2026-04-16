@@ -381,8 +381,8 @@
 | Day 276| 2026-4-12|Find median in a strem| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) | ✅ |
 | Day 277| 2026-4-13|Matrix Chain Multiplication| GFG | [Problem](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | ✅ |
 | Day 277| 2026-4-13| Ceil in BST| GFG | [Problem](http://geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | ✅ |
-| Day 278| 2026-4-14|Rotate by 90 degree| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1 | ✅ |
-
+| Day 278| 2026-4-14|Rotate by 90 degree| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | ✅ |
+| Day 279| 2026-4-15|Search in a sorted matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)| ✅ |
 
 
 
