@@ -389,7 +389,7 @@
 | Day 283| 2026-4-20|Binary Array Sorting| GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1)| ✅ |
 | Day 284| 2026-4-21|Median of BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/median-of-bst/1)| ✅ |
 | Day 285| 2026-4-22|Cutting Binary String| GFG | [Problem](https://www.geeksforgeeks.org/problems/cutting-binary-string1342/1)| ✅ |
-
+| Day 286| 2026-4-23|Maximum path sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)| ✅ |
 
 
 
