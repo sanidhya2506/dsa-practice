@@ -392,7 +392,7 @@
 | Day 286| 2026-4-23|Maximum path sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)| ✅ |
 | Day 287| 2026-4-24|First node of loop in linked list| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)| ✅ |
 | Day 288| 2026-4-25|Shortest common supersequence| GFG | [Problem](http://geeksforgeeks.org/problems/shortest-common-supersequence0322/1)| ✅ |
-
+| Day 289| 2026-4-26|Array to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/array-to-bst4443/1)| ✅ |
 
 
 
