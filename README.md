@@ -394,7 +394,7 @@
 | Day 288| 2026-4-25|Shortest common supersequence| GFG | [Problem](http://geeksforgeeks.org/problems/shortest-common-supersequence0322/1)| ✅ |
 | Day 289| 2026-4-26|Array to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/array-to-bst4443/1)| ✅ |
 | Day 290| 2026-4-27|Sum-String | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-string3151/1)| ✅ |
-
+| Day 291| 2026-4-28|Maximum Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1)| ✅ |
 
 
 
