@@ -397,7 +397,7 @@
 | Day 291| 2026-4-28|Maximum Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1)| ✅ |
 | Day 292| 2026-4-29|Merge K Sorted Arrays| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)| ✅ |
 | Day 293| 2026-4-30|Isomorphic Trees| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)| ✅ |
-
+| Day 294| 2026-5-01|Minimum Deletions| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1)| ✅ |
 
 
 
