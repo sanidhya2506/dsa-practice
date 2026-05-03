@@ -399,6 +399,7 @@
 | Day 293| 2026-4-30|Isomorphic Trees| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)| ✅ |
 | Day 294| 2026-5-01|Minimum Deletions| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1)| ✅ |
 | Day 295| 2026-5-02|Valid Compressed String| GFG | [Problem](https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1)| ✅ |
+| Day 296| 2026-5-03|K closet elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/k-closest-elements3619/1)| ✅ |
 
 
 
