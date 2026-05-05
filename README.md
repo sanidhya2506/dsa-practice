@@ -401,7 +401,7 @@
 | Day 295| 2026-5-02|Valid Compressed String| GFG | [Problem](https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1)| ✅ |
 | Day 296| 2026-5-03|K closet elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/k-closest-elements3619/1)| ✅ |
 | Day 297| 2026-5-04|Search in Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)| ✅ |
-
+| Day 298| 2026-5-05|Check if frequencies can be equal| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-frequencies4211/1)| ✅ |
 
 
 
