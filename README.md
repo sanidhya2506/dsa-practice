@@ -404,7 +404,7 @@
 | Day 298| 2026-5-05|Check if frequencies can be equal| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-frequencies4211/1)| ✅ |
 | Day 299| 2026-5-06|Is Binary Tree Heap| GFG | [Problem](http://geeksforgeeks.org/problems/is-binary-tree-heap/1)| ✅ |
 | Day 300| 2026-5-07|Count the Substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-substring--170645/1)| ✅ |
-
+| Day 301| 2026-5-08|MaxSkill| GFG | [Problem](https://www.geeksforgeeks.org/problems/burst-balloons/1)| ✅ |
 
 
 
