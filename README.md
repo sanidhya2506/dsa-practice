@@ -405,7 +405,7 @@
 | Day 299| 2026-5-06|Is Binary Tree Heap| GFG | [Problem](http://geeksforgeeks.org/problems/is-binary-tree-heap/1)| ✅ |
 | Day 300| 2026-5-07|Count the Substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-substring--170645/1)| ✅ |
 | Day 301| 2026-5-08|MaxSkill| GFG | [Problem](https://www.geeksforgeeks.org/problems/burst-balloons/1)| ✅ |
-
+| Day 302| 2026-5-09|Sorted Linked List to BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/sorted-list-to-bst/1)| ✅ |
 
 
 
