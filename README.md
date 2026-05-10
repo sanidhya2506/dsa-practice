@@ -406,7 +406,7 @@
 | Day 300| 2026-5-07|Count the Substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-substring--170645/1)| ✅ |
 | Day 301| 2026-5-08|MaxSkill| GFG | [Problem](https://www.geeksforgeeks.org/problems/burst-balloons/1)| ✅ |
 | Day 302| 2026-5-09|Sorted Linked List to BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/sorted-list-to-bst/1)| ✅ |
-
+| Day 303| 2026-5-10|Min Time| GFG | [Problem](https://www.geeksforgeeks.org/problems/min-time--170648/1)| ✅ |
 
 
 
