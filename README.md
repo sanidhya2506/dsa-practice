@@ -407,7 +407,7 @@
 | Day 301| 2026-5-08|MaxSkill| GFG | [Problem](https://www.geeksforgeeks.org/problems/burst-balloons/1)| ✅ |
 | Day 302| 2026-5-09|Sorted Linked List to BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/sorted-list-to-bst/1)| ✅ |
 | Day 303| 2026-5-10|Min Time| GFG | [Problem](https://www.geeksforgeeks.org/problems/min-time--170648/1)| ✅ |
-
+| Day 304| 2026-5-11|Substraction in Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/subtraction-in-linked-list/1)| ✅ |
 
 
 
