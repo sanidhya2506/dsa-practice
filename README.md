@@ -412,7 +412,7 @@
 | Day 306| 2026-5-13|Max Min Height| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-min-height--170647/1)| ✅ |
 | Day 307| 2026-5-14|Check if the Circular Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/circular-linked-list/1)| ✅ |
 | Day 308| 2026-5-15|Find the closet number| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-closest-number5513/1)| ✅ |
-
+| Day 309 2026-5-16|Mininmum sum paritition| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1)| ✅ |
 
 
 
