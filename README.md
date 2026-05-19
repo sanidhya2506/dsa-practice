@@ -415,7 +415,7 @@
 | Day 309| 2026-5-16|Mininmum sum paritition| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1)| ✅ |
 | Day 310| 2026-5-17|Top K frequent in Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)| ✅ |
 | Day 311| 2026-5-18|Root to leaf Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)| ✅ |
-
+| Day 312| 2026-5-19|Find all pairs with a given sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)| ✅ |
 
 
 
