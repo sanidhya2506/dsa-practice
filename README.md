@@ -417,7 +417,7 @@
 | Day 311| 2026-5-18|Root to leaf Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)| ✅ |
 | Day 312| 2026-5-19|Find all pairs with a given sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)| ✅ |
 | Day 313| 2026-5-20|Floor in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)| ✅ |
-
+| Day 314| 2026-5-21|Two Repeated Elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1)| ✅ |
 
 
 
