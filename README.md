@@ -420,7 +420,7 @@
 | Day 314| 2026-5-21|Two Repeated Elements| GFG | [Problem](https://www.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1)| ✅ |
 | Day 315| 2026-5-22|Print Adjeacency List| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1)| ✅ |
 | Day 316| 2026-5-23|ZigZag Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1)| ✅ |
-
+| Day 317| 2026-5-24|Search in a Matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix--021840/1)| ✅ |
 
 
 
