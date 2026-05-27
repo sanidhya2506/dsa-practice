@@ -423,6 +423,7 @@
 | Day 317| 2026-5-24|Search in a Matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix--021840/1)| ✅ |
 | Day 318| 2026-5-25|Max Rectanlge| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-rectangle/1)| ✅ |
 | Day 319| 2026-5-26|Delete a node in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1)| ✅ |
+| Day 320| 2026-5-27|Replace O's with X's| GFG | [Problem](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)| ✅ |
 
 
 
