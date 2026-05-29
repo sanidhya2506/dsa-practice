@@ -425,7 +425,7 @@
 | Day 319| 2026-5-26|Delete a node in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1)| ✅ |
 | Day 320| 2026-5-27|Replace O's with X's| GFG | [Problem](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)| ✅ |
 | Day 321| 2026-5-28|Depth of nodes| GFG | [Problem](https://www.geeksforgeeks.org/problems/depth-of-node/1)| ✅ |
-
+| Day 322| 2026-5-29|Heap Sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/heap-sort/1)| ✅ |
 
 
 
