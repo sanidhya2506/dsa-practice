@@ -427,7 +427,7 @@
 | Day 321| 2026-5-28|Depth of nodes| GFG | [Problem](https://www.geeksforgeeks.org/problems/depth-of-node/1)| ✅ |
 | Day 322| 2026-5-29|Heap Sort| GFG | [Problem](https://www.geeksforgeeks.org/problems/heap-sort/1)| ✅ |
 | Day 323| 2026-5-30|Number of paths| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)| ✅ |
-
+| Day 324| 2026-5-31|Roof Top| GFG | [Problem](https://www.geeksforgeeks.org/problems/roof-top-1587115621/1)| ✅ |
 
 
 
