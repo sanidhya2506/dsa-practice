@@ -429,6 +429,7 @@
 | Day 323| 2026-5-30|Number of paths| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)| ✅ |
 | Day 324| 2026-5-31|Roof Top| GFG | [Problem](https://www.geeksforgeeks.org/problems/roof-top-1587115621/1)| ✅ |
 | Day 325| 2026-6-1|Maximum Non-Adjacent Nodes Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)| ✅ |
+| Day 326| 2026-6-2|Container With Most Water| GFG | [Problem](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)| ✅ |
 
 
 
