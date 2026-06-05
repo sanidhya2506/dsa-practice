@@ -432,7 +432,7 @@
 | Day 326| 2026-6-2|Container With Most Water| GFG | [Problem](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)| ✅ |
 | Day 327| 2026-6-3|Not a subset sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-number-subset1220/1)| ✅ |
 | Day 328| 2026-6-4|Longest Bitonic subsequence| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)| ✅ |
-
+| Day 329| 2026-6-5|Even & Odd Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1)| ✅ |
 
 
 
