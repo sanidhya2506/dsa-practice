@@ -434,7 +434,7 @@
 | Day 328| 2026-6-4|Longest Bitonic subsequence| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)| ✅ |
 | Day 329| 2026-6-5|Even & Odd Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1)| ✅ |
 | Day 330| 2026-6-6|Pair Sum Closest to 0| GFG | [Problem](https://www.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1)| ✅ |
-
+| Day 331| 2026-6-7|Kth Largest Element in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)| ✅ |
 
 
 
