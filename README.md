@@ -436,6 +436,7 @@
 | Day 330| 2026-6-6|Pair Sum Closest to 0| GFG | [Problem](https://www.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1)| ✅ |
 | Day 331| 2026-6-7|Kth Largest Element in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)| ✅ |
 | Day 332| 2026-6-8|Largest Prime factor| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1)| ✅ |
+| Day 333| 2026-6-9|Swap Kth nodes from ends| GFG | [Problem](https://www.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)| ✅ |
 
 
 
