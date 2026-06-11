@@ -438,7 +438,7 @@
 | Day 332| 2026-6-8|Largest Prime factor| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1)| ✅ |
 | Day 333| 2026-6-9|Swap Kth nodes from ends| GFG | [Problem](https://www.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)| ✅ |
 | Day 334| 2026-6-10|Inorder Trversal and BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1)| ✅ |
-
+| Day 335| 2026-6-11|BST Insert| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)| ✅ |
 
 
 
