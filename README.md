@@ -441,7 +441,7 @@
 | Day 335| 2026-6-11|BST Insert| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)| ✅ |
 | Day 336| 2026-6-12|Closest Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/closest-strings0611/1)| ✅ |
 | Day 337| 2026-6-13|Multiply two Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1)| ✅ |
-
+| Day 338| 2026-6-14|Insert in Sorted Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)| ✅ |
 
 
 
