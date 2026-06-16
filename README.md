@@ -443,7 +443,7 @@
 | Day 337| 2026-6-13|Multiply two Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1)| ✅ |
 | Day 338| 2026-6-14|Insert in Sorted Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1)| ✅ |
 | Day 339| 2026-6-15|Sort according to an Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/relative-sorting4323/1)| ✅ |
-
+| Day 340| 2026-6-16|Sort Array| GFG | [Problem](http://geeksforgeeks.org/problems/sort-the-array0055/1)| ✅ |
 
 
 
