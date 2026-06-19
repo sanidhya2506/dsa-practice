@@ -446,7 +446,7 @@
 | Day 340| 2026-6-16|Sort Array| GFG | [Problem](http://geeksforgeeks.org/problems/sort-the-array0055/1)| ✅ |
 | Day 341| 2026-6-17|Missing Element in Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/missing-element-in-range/1)| ✅ |
 | Day 342| 2026-6-18|Max Value Permutation| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1)| ✅ |
-
+| Day 343| 2026-6-19|Sort a Stack| GFG | [Problem](https://www.geeksforgeeks.org/problems/sort-a-stack/1)| ✅ |
 
 
 
