@@ -447,7 +447,7 @@
 | Day 341| 2026-6-17|Missing Element in Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/missing-element-in-range/1)| ✅ |
 | Day 342| 2026-6-18|Max Value Permutation| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1)| ✅ |
 | Day 343| 2026-6-19|Sort a Stack| GFG | [Problem](https://www.geeksforgeeks.org/problems/sort-a-stack/1)| ✅ |
-
+| Day 344| 2026-6-20|Sudoku| GFG | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)| ✅ |
 
 
 
