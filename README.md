@@ -449,7 +449,7 @@
 | Day 343| 2026-6-19|Sort a Stack| GFG | [Problem](https://www.geeksforgeeks.org/problems/sort-a-stack/1)| ✅ |
 | Day 344| 2026-6-20|Sudoku| GFG | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)| ✅ |
 | Day 345| 2026-6-21|Gold Mine Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1)| ✅ |
-
+| Day 346| 2026-6-22|Postfix Evaluation| GFG | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)| ✅ |
 
 
 
