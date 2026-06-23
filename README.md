@@ -450,7 +450,7 @@
 | Day 344| 2026-6-20|Sudoku| GFG | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)| ✅ |
 | Day 345| 2026-6-21|Gold Mine Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1)| ✅ |
 | Day 346| 2026-6-22|Postfix Evaluation| GFG | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)| ✅ |
-
+| Day 347| 2026-6-23|Rearrange a LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/rearrange-a-linked-list/1)| ✅ |
 
 
 
