@@ -452,7 +452,7 @@
 | Day 346| 2026-6-22|Postfix Evaluation| GFG | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)| ✅ |
 | Day 347| 2026-6-23|Rearrange a LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/rearrange-a-linked-list/1)| ✅ |
 | Day 348| 2026-6-24|Remove Every K'th in LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1)| ✅ |
-
+| Day 349| 2026-6-25|Insertion Sort LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/insertion-sort-list/1)| ✅ |
 
 
 
