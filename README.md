@@ -457,7 +457,7 @@
 | Day 351| 2026-6-27|Koko eating banana| GFG | [Problem](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1)| ✅ |
 | Day 352| 2026-6-28|Check if subtree| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-if-subtree/1)| ✅ |
 | Day 353| 2026-6-29|Insert in Sorted Circular Linked List| GFG | [Problem](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)| ✅ |
-
+| Day 354| 2026-6-30|Merge 2 sorted LL in reverse| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1)| ✅ |
 
 
 
