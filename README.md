@@ -460,7 +460,7 @@
 | Day 354| 2026-6-30|Merge 2 sorted LL in reverse| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1)| ✅ |
 | Day 355| 2026-7-1|Sort Singly LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)| ✅ |
 | Day 356| 2026-7-2|LL to BT| GFG | [Problem](https://www.geeksforgeeks.org/problems/make-binary-tree/1)| ✅ |
-
+| Day 357| 2026-7-3|PreOrder Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/preorder-traversal/1)| ✅ |
 
 
 
