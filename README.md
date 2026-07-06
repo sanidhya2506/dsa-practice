@@ -463,7 +463,7 @@
 | Day 357| 2026-7-3|PreOrder Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/preorder-traversal/1)| ✅ |
 | Day 358| 2026-7-4|Overlapping Intervals| GFG | [Problem](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1)| ✅ |
 | Day 359| 2026-7-5|Painting the Fence| GFG | [Problem](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)| ✅ |
-
+| Day 360| 2026-7-6|Longest Prefix Suffix| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)| ✅ |
 
 
 
