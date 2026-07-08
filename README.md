@@ -465,7 +465,7 @@
 | Day 359| 2026-7-5|Painting the Fence| GFG | [Problem](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)| ✅ |
 | Day 360| 2026-7-6|Longest Prefix Suffix| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)| ✅ |
 | Day 361| 2026-7-7|Number of Distinct Island| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)| ✅ |
-
+| Day 362| 2026-7-8|Identical trees| GFG | [Problem](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)| ✅ |
 
 
 
