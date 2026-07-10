@@ -467,7 +467,7 @@
 | Day 361| 2026-7-7|Number of Distinct Island| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)| ✅ |
 | Day 362| 2026-7-8|Identical trees| GFG | [Problem](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)| ✅ |
 | Day 363| 2026-7-9|Max sum in the configuration| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1)| ✅ |
-
+| Day 364| 2026-7-10|Right Angle Traiangle| GFG | [Problem](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1)| ✅ |
 
 
 
