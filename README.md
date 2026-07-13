@@ -470,7 +470,8 @@
 | Day 364| 2026-7-10|Right Angle Traiangle| GFG | [Problem](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1)| ✅ |
 | Day 365| 2026-7-11|Sorted and Rotated array| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)| ✅ |
 | Day 366| 2026-7-12|Majority Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/who-has-the-majority/1)| ✅ |
-
+| Day 367| 2026-7-13|Stock buy and sell| GFG | [Problem](https://www.geeksforgeeks.org/problems/buy-stock-2/1)| ✅ |
+| Day 367| 2026-7-13|Distance of nearest cell having 1| GFG | [Problem](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)| ✅ |
 
 
 
