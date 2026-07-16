@@ -474,7 +474,7 @@
 | Day 367| 2026-7-13|Distance of nearest cell having 1| GFG | [Problem](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)| ✅ |
 | Day 368| 2026-7-14|Lucky Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/lucky-numbers2911/1)| ✅ |
 | Day 369| 2026-7-15|Nearly Sorted| GFG | [Problem](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)| ✅ |
-
+| Day 370| 2026-7-16|Union of Two LL| GFG | [Problem](http://geeksforgeeks.org/problems/union-of-two-linked-list/1)| ✅ |
 
 
 
