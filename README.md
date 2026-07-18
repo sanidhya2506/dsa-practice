@@ -476,7 +476,7 @@
 | Day 369| 2026-7-15|Nearly Sorted| GFG | [Problem](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)| ✅ |
 | Day 370| 2026-7-16|Union of Two LL| GFG | [Problem](http://geeksforgeeks.org/problems/union-of-two-linked-list/1)| ✅ |
 | Day 371| 2026-7-17|Preorder to BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1)| ✅ |
-
+| Day 372| 2026-7-18|Number of Islands| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)| ✅ |
 
 
 
