@@ -478,7 +478,7 @@
 | Day 371| 2026-7-17|Preorder to BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1)| ✅ |
 | Day 372| 2026-7-18|Number of Islands| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)| ✅ |
 | Day 373| 2026-7-19|Max Score| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1)| ✅ |
-
+| Day 374| 2026-7-20|Product Pair| GFG | [Problem](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)| ✅ |
 
 
 
