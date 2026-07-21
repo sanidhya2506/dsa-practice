@@ -479,7 +479,7 @@
 | Day 372| 2026-7-18|Number of Islands| GFG | [Problem](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1)| ✅ |
 | Day 373| 2026-7-19|Max Score| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1)| ✅ |
 | Day 374| 2026-7-20|Product Pair| GFG | [Problem](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)| ✅ |
-
+| Day 375| 2026-7-21|Merge sort on DLL| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)| ✅ |
 
 
 
