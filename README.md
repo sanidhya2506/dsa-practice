@@ -481,7 +481,7 @@
 | Day 374| 2026-7-20|Product Pair| GFG | [Problem](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)| ✅ |
 | Day 375| 2026-7-21|Merge sort on DLL| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)| ✅ |
 | Day 376| 2026-7-22|LL insertion| GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)| ✅ |
-
+| Day 377| 2026-7-23|Maximum subset| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1)| ✅ |
 
 
 
