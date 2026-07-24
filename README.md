@@ -482,7 +482,7 @@
 | Day 375| 2026-7-21|Merge sort on DLL| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)| ✅ |
 | Day 376| 2026-7-22|LL insertion| GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)| ✅ |
 | Day 377| 2026-7-23|Maximum subset| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1)| ✅ |
-
+| Day 378| 2026-7-24|Huffman Coding| GFG | [Problem](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)| ✅ |
 
 
 
