@@ -483,7 +483,7 @@
 | Day 376| 2026-7-22|LL insertion| GFG | [Problem](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)| ✅ |
 | Day 377| 2026-7-23|Maximum subset| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1)| ✅ |
 | Day 378| 2026-7-24|Huffman Coding| GFG | [Problem](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)| ✅ |
-
+| Day 379| 2026-7-25|Remove K Digits| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-k-digits/1)| ✅ |
 
 
 
