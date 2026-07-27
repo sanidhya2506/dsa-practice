@@ -485,7 +485,7 @@
 | Day 378| 2026-7-24|Huffman Coding| GFG | [Problem](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)| ✅ |
 | Day 379| 2026-7-25|Remove K Digits| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-k-digits/1)| ✅ |
 | Day 380| 2026-7-26|Complete BT| GFG | [Problem](https://www.geeksforgeeks.org/problems/complete-binary-tree/1)| ✅ |
-
+| Day 381| 2026-7-27|Distinct occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/distinct-occurrences/1)| ✅ |
 
 
 
