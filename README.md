@@ -487,6 +487,7 @@
 | Day 380| 2026-7-26|Complete BT| GFG | [Problem](https://www.geeksforgeeks.org/problems/complete-binary-tree/1)| ✅ |
 | Day 381| 2026-7-27|Distinct occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/distinct-occurrences/1)| ✅ |
 | Day 382| 2026-7-28|AVL Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/avl-tree-insertion/1)| ✅ |
+| Day 383| 2026-7-29|LCS| GFG | [Problem](https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1)| ✅ |
 
 
 
