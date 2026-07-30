@@ -488,7 +488,7 @@
 | Day 381| 2026-7-27|Distinct occurrences| GFG | [Problem](https://www.geeksforgeeks.org/problems/distinct-occurrences/1)| ✅ |
 | Day 382| 2026-7-28|AVL Tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/avl-tree-insertion/1)| ✅ |
 | Day 383| 2026-7-29|LCS| GFG | [Problem](https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1)| ✅ |
-
+| Day 384| 2026-7-30|Shortest Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)| ✅ |
 
 
 
