@@ -490,7 +490,7 @@
 | Day 383| 2026-7-29|LCS| GFG | [Problem](https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1)| ✅ |
 | Day 384| 2026-7-30|Shortest Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)| ✅ |
 | Day 385| 2026-7-31|Absolute List Sorting| GFG | [Problem](http://geeksforgeeks.org/problems/absolute-list-sorting/1)| ✅ |
-
+| Day 386| 2026-8-1|Palindrome Pairs| GFG | [Problem](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)| ✅ |
 
 
 
