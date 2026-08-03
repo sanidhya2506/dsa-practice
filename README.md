@@ -492,7 +492,7 @@
 | Day 385| 2026-7-31|Absolute List Sorting| GFG | [Problem](http://geeksforgeeks.org/problems/absolute-list-sorting/1)| ✅ |
 | Day 386| 2026-8-1|Palindrome Pairs| GFG | [Problem](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)| ✅ |
 | Day 387| 2026-8-2|Array pair sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)| ✅ |
-
+| Day 388| 2026-8-3|reverse Digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1)| ✅ |
 
 
 
