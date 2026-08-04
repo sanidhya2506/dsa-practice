@@ -493,7 +493,7 @@
 | Day 386| 2026-8-1|Palindrome Pairs| GFG | [Problem](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)| ✅ |
 | Day 387| 2026-8-2|Array pair sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)| ✅ |
 | Day 388| 2026-8-3|reverse Digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1)| ✅ |
-
+| Day 389| 2026-8-4|Find the Frequency| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-frequency/1)| ✅ |
 
 
 
