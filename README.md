@@ -494,7 +494,7 @@
 | Day 387| 2026-8-2|Array pair sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)| ✅ |
 | Day 388| 2026-8-3|reverse Digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1)| ✅ |
 | Day 389| 2026-8-4|Find the Frequency| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-frequency/1)| ✅ |
-
+| Day 340| 2026-8-5|Partition array| GFG | [Problem](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)| ✅ |
 
 
 
