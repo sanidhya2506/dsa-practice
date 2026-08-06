@@ -495,7 +495,7 @@
 | Day 388| 2026-8-3|reverse Digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-digit0316/1)| ✅ |
 | Day 389| 2026-8-4|Find the Frequency| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-frequency/1)| ✅ |
 | Day 340| 2026-8-5|Partition array| GFG | [Problem](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)| ✅ |
-
+| Day 341| 2026-8-6|Largest Sum Cycle| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1)| ✅ |
 
 
 
