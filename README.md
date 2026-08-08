@@ -497,7 +497,7 @@
 | Day 340| 2026-8-5|Partition array| GFG | [Problem](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)| ✅ |
 | Day 341| 2026-8-6|Largest Sum Cycle| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-sum-cycle--170645/1)| ✅ |
 | Day 342| 2026-8-7|Minimum Cost Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimum-cost-path3833/1)| ✅ |
-
+| Day 343| 2026-8-8|Kth Abcesstors| GFG | [Problem](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)| ✅ |
 
 
 
