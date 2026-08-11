@@ -500,7 +500,7 @@
 | Day 343| 2026-8-8|Kth Abcesstors| GFG | [Problem](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)| ✅ |
 | Day 344| 2026-8-9|Largest sqaure formed in a matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)| ✅ |
 | Day 345| 2026-8-10|LRU Cache| GFG | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1)| ✅ |
-
+| Day 346| 2026-8-11|Search Patterns| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1)| ✅ |
 
 
 
