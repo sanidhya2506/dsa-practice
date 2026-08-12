@@ -501,7 +501,7 @@
 | Day 344| 2026-8-9|Largest sqaure formed in a matrix| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)| ✅ |
 | Day 345| 2026-8-10|LRU Cache| GFG | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1)| ✅ |
 | Day 346| 2026-8-11|Search Patterns| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1)| ✅ |
-
+| Day 347| 2026-8-12|Longest repeating substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-repeating-and-non-overlapping-substring3421/1)| ✅ |
 
 
 
