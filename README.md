@@ -503,8 +503,8 @@
 | Day 346| 2026-8-11|Search Patterns| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1)| ✅ |
 | Day 347| 2026-8-12|Longest repeating substrings| GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-repeating-and-non-overlapping-substring3421/1)| ✅ |
 | Day 348| 2026-8-13|Inorder successor in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1)| ✅ |
-| Day 349| 2026-8-14|Reerse Level Order Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1)| ✅ |
-
+| Day 349| 2026-8-14|Reverse Level Order Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1)| ✅ |
+| Day 350| 2026-8-15|Pair sum in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1)| ✅ |
 
 
 
