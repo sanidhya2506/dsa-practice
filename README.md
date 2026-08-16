@@ -505,7 +505,7 @@
 | Day 348| 2026-8-13|Inorder successor in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1)| ✅ |
 | Day 349| 2026-8-14|Reverse Level Order Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1)| ✅ |
 | Day 350| 2026-8-15|Pair sum in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1)| ✅ |
-
+| Day 351| 2026-8-16|Sum of Digits| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)| ✅ |
 
 
 
