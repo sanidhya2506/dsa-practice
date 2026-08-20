@@ -509,7 +509,7 @@
 | Day 352| 2026-8-17|Check Tree Traversal| GFG | [Problem](https://www.geeksforgeeks.org/problems/check-tree-traversal--141628/1)| ✅ |
 | Day 353| 2026-8-18|Transform to sum tree| GFG | [Problem](https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1)| ✅ |
 | Day 354| 2026-8-19|Sum of XOR | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1)| ✅ |
-
+| Day 355| 2026-8-20|Panagram Checking | GFG | [Problem](https://www.geeksforgeeks.org/problems/pangram-checking-1587115620/1)| ✅ |
 
 
 
