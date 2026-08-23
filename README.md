@@ -512,6 +512,7 @@
 | Day 355| 2026-8-20|Panagram Checking | GFG | [Problem](https://www.geeksforgeeks.org/problems/pangram-checking-1587115620/1)| ✅ |
 | Day 356| 2026-8-21|Number of patterns | GFG | [Problem](https://www.geeksforgeeks.org/problems/number-following-a-pattern3126/1)| ✅ |
 | Day 357| 2026-8-22|K pangrams | GFG | [Problem](https://www.geeksforgeeks.org/problems/k-pangrams0909/1)| ✅ |
+| Day 358| 2026-8-23|Dominant Pair | GFG | [Problem](https://www.geeksforgeeks.org/problems/dominant-pairs/1)| ✅ |
 
 
 
