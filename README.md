@@ -514,7 +514,7 @@
 | Day 357| 2026-8-22|K pangrams | GFG | [Problem](https://www.geeksforgeeks.org/problems/k-pangrams0909/1)| ✅ |
 | Day 358| 2026-8-23|Dominant Pair | GFG | [Problem](https://www.geeksforgeeks.org/problems/dominant-pairs/1)| ✅ |
 | Day 359| 2026-8-24|Largest Smaller on Left | GFG | [Problem](https://www.geeksforgeeks.org/problems/smaller-on-left20360700/1)| ✅ |
-
+| Day 360| 2026-8-25|Distribute Candies | GFG | [Problem](https://www.geeksforgeeks.org/problems/distribute-candies-in-a-binary-tree/1)| ✅ |
 
 ---
 
