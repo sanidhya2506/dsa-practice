@@ -517,6 +517,7 @@
 | Day 360| 2026-8-25|Distribute Candies | GFG | [Problem](https://www.geeksforgeeks.org/problems/distribute-candies-in-a-binary-tree/1)| ✅ |
 | Day 361| 2026-8-26|Count 1's Binary| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-1s-in-binary-array-1587115620/1)| ✅ |
 | Day 362| 2026-8-27|Maximum Diamond| GFG | [Problem](https://www.geeksforgeeks.org/problems/chinky-and-diamonds3340/1)| ✅ |
+| Day 363| 2026-8-28|Count Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/1)| ✅ |
 
 
 
