@@ -519,7 +519,7 @@
 | Day 362| 2026-8-27|Maximum Diamond| GFG | [Problem](https://www.geeksforgeeks.org/problems/chinky-and-diamonds3340/1)| ✅ |
 | Day 363| 2026-8-28|Count Strings| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/1)| ✅ |
 | Day 364| 2026-8-29|Remove Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-character3815/1)| ✅ |
-
+| Day 365| 2026-8-30|Max Occured in n Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1)| ✅ |
 
 
 
