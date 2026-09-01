@@ -521,6 +521,7 @@
 | Day 364| 2026-8-29|Remove Character| GFG | [Problem](https://www.geeksforgeeks.org/problems/remove-character3815/1)| ✅ |
 | Day 365| 2026-8-30|Max Occured in n Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1)| ✅ |
 | Day 366| 2026-8-31|Count Sum in Pairs| GFG | [Problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)| ✅ |
+| Day 367| 2026-9-01|Implement Lower Bound| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)| ✅ |
 
 
 
