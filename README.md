@@ -522,8 +522,7 @@
 | Day 365| 2026-8-30|Max Occured in n Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1)| ✅ |
 | Day 366| 2026-8-31|Count Sum in Pairs| GFG | [Problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)| ✅ |
 | Day 367| 2026-9-01|Implement Lower Bound| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)| ✅ |
-
-
+| Day 368| 2026-9-02|Max Frequency| GFG | [Problem](https://www.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1)| ✅ |
 
 
 
