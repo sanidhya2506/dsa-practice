@@ -524,7 +524,7 @@
 | Day 367| 2026-9-01|Implement Lower Bound| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)| ✅ |
 | Day 368| 2026-9-02|Max Frequency| GFG | [Problem](https://www.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1)| ✅ |
 | Day 369| 2026-9-03|Matrix Snake| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1)| ✅ |
-
+| Day 370| 2026-9-04|Max Sum Subarray| GFG | [Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)| ✅ |
 
 
 
