@@ -528,7 +528,7 @@
 | Day 371| 2026-9-05|Juggler Sequence| GFG | [Problem](https://www.geeksforgeeks.org/problems/juggler-sequence3930/1)| ✅ |
 | Day 372| 2026-9-06|Nodes W/O Siblings| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1)| ✅ |
 | Day 373| 2026-9-07|Count Frequent Element| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-element-occurences/1)| ✅ |
-
+| Day 374| 2026-9-08|Implement Upper Bound| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)| ✅ |
 
 
 
