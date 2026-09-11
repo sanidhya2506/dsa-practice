@@ -531,6 +531,17 @@
 | Day 374| 2026-9-08|Implement Upper Bound| GFG | [Problem](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)| ✅ |
 | Day 375| 2026-9-09|Prodcut of Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/product-of-array-element/1)| ✅ |
 | Day 376| 2026-9-10|Min Number of Flips| GFG | [Problem](https://www.geeksforgeeks.org/problems/min-number-of-flips3210/1)| ✅ |
+| Day 377| 2026-9-11|Friends Pairing Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)| ✅ |
+
+
+
+
+
+
+
+
+
+
 
 
 ---
