@@ -534,7 +534,7 @@
 | Day 377| 2026-9-11|Friends Pairing Problem| GFG | [Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)| ✅ |
 | Day 378| 2026-9-12|Merge 2 BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1)| ✅ |
 | Day 379| 2026-9-13|XOR a number| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1)| ✅ |
-
+| Day 380| 2026-9-14|Longest pair sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/pair-sum--120604/1)| ✅ |
 
 
 
