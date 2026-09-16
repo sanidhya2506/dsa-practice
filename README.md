@@ -536,7 +536,7 @@
 | Day 379| 2026-9-13|XOR a number| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1)| ✅ |
 | Day 380| 2026-9-14|Longest pair sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/pair-sum--120604/1)| ✅ |
 | Day 381| 2026-9-15|Zero counts| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-the-zeros2550--141153/1)| ✅ |
-
+| Day 382| 2026-9-16|Marks from Ranks| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1)| ✅ |
 
 
 
