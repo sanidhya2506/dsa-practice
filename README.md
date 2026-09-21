@@ -541,7 +541,7 @@
 | Day 384| 2026-9-18|Flatten BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1)| ✅ |
 | Day 385| 2026-9-19|Missing AP| GFG | [Problem](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1)| ✅ |
 | Day 386| 2026-9-20|root to leaf| GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1)| ✅ |
-
+| Day 387| 2026-9-21|COunt BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)| ✅ |
 
 
 
