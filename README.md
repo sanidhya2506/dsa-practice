@@ -542,7 +542,7 @@
 | Day 385| 2026-9-19|Missing AP| GFG | [Problem](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1)| ✅ |
 | Day 386| 2026-9-20|root to leaf| GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1)| ✅ |
 | Day 387| 2026-9-21|COunt BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)| ✅ |
-
+| Day 388| 2026-9-22|Subarray sum 0's & 1's| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)| ✅ |
 
 
 
