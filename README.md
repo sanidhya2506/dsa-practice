@@ -545,7 +545,7 @@
 | Day 388| 2026-9-22|Subarray sum 0's & 1's| GFG | [Problem](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)| ✅ |
 | Day 389| 2026-9-23|Minimize the + of *| GFG | [Problem](https://www.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1)| ✅ |
 | Day 390| 2026-9-24|1s surrounded by 0s| GFG | [Problem](https://www.geeksforgeeks.org/problems/1s-surrounded-by-0s/1)| ✅ |
-
+| Day 391| 2026-9-25|Max Product Pair| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1)| ✅ |
 
 
 ---
