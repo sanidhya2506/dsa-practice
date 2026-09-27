@@ -547,6 +547,22 @@
 | Day 390| 2026-9-24|1s surrounded by 0s| GFG | [Problem](https://www.geeksforgeeks.org/problems/1s-surrounded-by-0s/1)| ✅ |
 | Day 391| 2026-9-25|Max Product Pair| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1)| ✅ |
 | Day 392| 2026-9-26|Sum of Mode| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-mode/1)| ✅ |
+| Day 393| 2026-9-27|Meadian of 2 array| GFG | [Problem](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1)| ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
