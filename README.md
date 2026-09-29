@@ -549,7 +549,7 @@
 | Day 392| 2026-9-26|Sum of Mode| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-mode/1)| ✅ |
 | Day 393| 2026-9-27|Meadian of 2 array| GFG | [Problem](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1)| ✅ |
 | Day 394| 2026-9-28|Min steps of Knight| GFG | [Problem](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1)| ✅ |
-
+| Day 395| 2026-9-29|Frog and Jumps| GFG | [Problem](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1| ✅ |
 
 
 
