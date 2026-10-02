@@ -552,7 +552,7 @@
 | Day 395| 2026-9-29|Frog and Jumps| GFG | [Problem](https://www.geeksforgeeks.org/problems/frogs-and-jumps--170647/1)| ✅ |
 | Day 396| 2026-9-30|Word in Grid| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)| ✅ |
 | Day 397| 2026-10-1|Shortest path| GFG | [Problem](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)| ✅ |
-
+| Day 398| 2026-10-2|Longest subarray | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-subarray-with-atmost-two-distinct-integers/1)| ✅ |
 
 
 
