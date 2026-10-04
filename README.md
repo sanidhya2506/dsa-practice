@@ -554,7 +554,7 @@
 | Day 397| 2026-10-1|Shortest path| GFG | [Problem](https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1)| ✅ |
 | Day 398| 2026-10-2|Longest subarray | GFG | [Problem](https://www.geeksforgeeks.org/problems/longest-subarray-with-atmost-two-distinct-integers/1)| ✅ |
 | Day 399| 2026-10-3|BST with Dead End | GFG | [Problem](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)| ✅ |
-
+| Day 400| 2026-10-4|Excel Col Name | GFG | [Problem](https://www.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1)| ✅ |
 
 
 
