@@ -556,7 +556,7 @@
 | Day 399| 2026-10-3|BST with Dead End | GFG | [Problem](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)| ✅ |
 | Day 400| 2026-10-4|Excel Col Name | GFG | [Problem](https://www.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1)| ✅ |
 | Day 401| 2026-10-5|Closet in BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1)| ✅ |
-
+| Day 402| 2026-10-6|Pairwise Swap in LL | GFG | [Problem](https://www.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)| ✅ |
 
 
 
