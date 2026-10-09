@@ -559,7 +559,7 @@
 | Day 402| 2026-10-6|Pairwise Swap in LL | GFG | [Problem](https://www.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)| ✅ |
 | Day 403| 2026-10-7|Number Containing 1,2,3 | GFG | [Problem](https://www.geeksforgeeks.org/problems/numbers-containing-1-2-and-32555/1)| ✅ |
 | Day 404| 2026-10-8|Sum of 2 prims | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1)| ✅ |
-
+| Day 405| 2026-10-9|Bus Ticket Change | GFG | [Problem](https://www.geeksforgeeks.org/problems/bus-ticket-change/1)| ✅ |
 
 
 
