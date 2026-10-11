@@ -561,7 +561,7 @@
 | Day 404| 2026-10-8|Sum of 2 prims | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1)| ✅ |
 | Day 405| 2026-10-9|Bus Ticket Change | GFG | [Problem](https://www.geeksforgeeks.org/problems/bus-ticket-change/1)| ✅ |
 | Day 406| 2026-10-10|Partition the array | GFG | [Problem](https://www.geeksforgeeks.org/problems/partition-the-array--170647/1)| ✅ |
-
+| Day 407| 2026-10-12|Count Edge | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)| ✅ |
 
 
 
