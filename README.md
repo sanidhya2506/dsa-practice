@@ -564,6 +564,19 @@
 | Day 407| 2026-10-12|Count Edge | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)| ✅ |
 | Day 408| 2026-10-13|Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1)| ✅ |
 | Day 409| 2026-10-14|Pair With Difference | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)| ✅ |
+| Day 410| 2026-10-15| Find nth | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1)| ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
