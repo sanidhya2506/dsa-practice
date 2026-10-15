@@ -561,11 +561,11 @@
 | Day 404| 2026-10-8|Sum of 2 prims | GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1)| ✅ |
 | Day 405| 2026-10-9|Bus Ticket Change | GFG | [Problem](https://www.geeksforgeeks.org/problems/bus-ticket-change/1)| ✅ |
 | Day 406| 2026-10-10|Partition the array | GFG | [Problem](https://www.geeksforgeeks.org/problems/partition-the-array--170647/1)| ✅ |
-| Day 407| 2026-10-12|Count Edge | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)| ✅ |
-| Day 408| 2026-10-13|Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1)| ✅ |
-| Day 409| 2026-10-14|Pair With Difference | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)| ✅ |
-| Day 410| 2026-10-15| Find nth | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1)| ✅ |
-
+| Day 407| 2026-10-11|Count Edge | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1)| ✅ |
+| Day 408| 2026-10-12|Traversal | GFG | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1)| ✅ |
+| Day 409| 2026-10-13|Pair With Difference | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)| ✅ |
+| Day 410| 2026-10-14| Find nth | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1)| ✅ |
+| Day 411| 2026-10-15| Search in Row & col | GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)| ✅ |
 
 
 
