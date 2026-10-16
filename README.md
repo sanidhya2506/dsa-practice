@@ -566,7 +566,7 @@
 | Day 409| 2026-10-13|Pair With Difference | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)| ✅ |
 | Day 410| 2026-10-14| Find nth | GFG | [Problem](https://www.geeksforgeeks.org/problems/find-the-n-th-character5925/1)| ✅ |
 | Day 411| 2026-10-15| Search in Row & col | GFG | [Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)| ✅ |
-
+| Day 412| 2026-10-16| Count Pair with Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)| ✅ |
 
 
 
