@@ -569,7 +569,7 @@
 | Day 412| 2026-10-16| Count Pair with Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)| ✅ |
 | Day 413| 2026-10-17| Root to leaf path Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)| ✅ |
 | Day 414| 2026-10-18| Count ways 3,5,7 | GFG | [Problem](https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)| ✅ |
-
+| Day 415| 2026-10-19| Binary Tree to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1)| ✅ |
 
 
 
