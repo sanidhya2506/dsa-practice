@@ -570,7 +570,7 @@
 | Day 413| 2026-10-17| Root to leaf path Sum | GFG | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)| ✅ |
 | Day 414| 2026-10-18| Count ways 3,5,7 | GFG | [Problem](https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)| ✅ |
 | Day 415| 2026-10-19| Binary Tree to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1)| ✅ |
-
+| Day 416| 2026-10-20| Maximum Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-possible5028/1)| ✅ |
 
 
 
