@@ -572,6 +572,7 @@
 | Day 415| 2026-10-19| Binary Tree to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1)| ✅ |
 | Day 416| 2026-10-20| Maximum Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-possible5028/1)| ✅ |
 
+| Day 417| 2026-10-21| Sorted Insert In LL | GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)| ✅ |
 
 
 
