@@ -571,7 +571,6 @@
 | Day 414| 2026-10-18| Count ways 3,5,7 | GFG | [Problem](https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1)| ✅ |
 | Day 415| 2026-10-19| Binary Tree to BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1)| ✅ |
 | Day 416| 2026-10-20| Maximum Number | GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-possible5028/1)| ✅ |
-
 | Day 417| 2026-10-21| Sorted Insert In LL | GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)| ✅ |
 | Day 418| 2026-10-22|Cake Distribution | GFG | [Problem](https://www.geeksforgeeks.org/problems/cake-distribution-problem--170647/1)| ✅ |
 | Day 419| 2026-10-23|Normal BST to balanced BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)| ✅ |
