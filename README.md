@@ -574,7 +574,7 @@
 
 | Day 417| 2026-10-21| Sorted Insert In LL | GFG | [Problem](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)| ✅ |
 | Day 418| 2026-10-22|Cake Distribution | GFG | [Problem](https://www.geeksforgeeks.org/problems/cake-distribution-problem--170647/1)| ✅ |
-
+| Day 419| 2026-10-23|Normal BST to balanced BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)| ✅ |
 
 
 
