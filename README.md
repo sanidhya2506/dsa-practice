@@ -576,7 +576,7 @@
 | Day 419| 2026-10-23|Normal BST to balanced BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1)| ✅ |
 | Day 420| 2026-10-24|Node at Given Index | GFG | [Problem](https://www.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1)| ✅ |
 | Day 421| 2026-10-25|Common node in BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1)| ✅ |
-
+| Day 422| 2026-10-26|Array to Deque | GFG | [Problem](https://www.geeksforgeeks.org/problems/insertion-in-deque/1)| ✅ |
 
 
 ---
