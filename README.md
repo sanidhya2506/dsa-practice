@@ -581,7 +581,7 @@
 | Day 424| 2026-10-28|Reverse First K element of queue | GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)| ✅ |
 | Day 425| 2026-10-29|Insertion Sort | GFG | [Problem](https://www.geeksforgeeks.org/problems/insertion-sort/1)| ✅ |
 | Day 426| 2026-10-30|Insertion Sort | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximize-toys0331/1)| ✅ |
-
+| Day 427| 2026-10-31|Decimal Equivalent | GFG | [Problem](https://www.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1)| ✅ |
 
 
 
