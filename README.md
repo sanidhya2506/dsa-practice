@@ -583,6 +583,7 @@
 | Day 426| 2026-10-30|Insertion Sort | GFG | [Problem](https://www.geeksforgeeks.org/problems/maximize-toys0331/1)| ✅ |
 | Day 427| 2026-10-31|Decimal Equivalent | GFG | [Problem](https://www.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1)| ✅ |
 | Day 428| 2026-11-01|ChecK Preoder of BST | GFG | [Problem](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1)| ✅ |
+| Day 429| 2026-11-02|Rank of Permutations| GFG | [Problem](https://www.geeksforgeeks.org/problems/rank-the-permutations2229/1| ✅ |
 
 
 
