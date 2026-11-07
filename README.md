@@ -588,7 +588,7 @@
 | Day 431| 2026-11-04|Subarray sum Division| GFG | [Problem](https://www.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1)| ✅ |
 | Day 432| 2026-11-05|Check Path in 2D Grid| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1)| ✅ |
 | Day 433| 2026-11-06|Shortest Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)| ✅ |
-
+| Day 434| 2026-11-07|Earliest Common Slot| GFG | [Problem](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)| ✅ |
 
 
 
