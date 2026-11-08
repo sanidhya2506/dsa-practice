@@ -589,7 +589,7 @@
 | Day 432| 2026-11-05|Check Path in 2D Grid| GFG | [Problem](https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1)| ✅ |
 | Day 433| 2026-11-06|Shortest Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)| ✅ |
 | Day 434| 2026-11-07|Earliest Common Slot| GFG | [Problem](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)| ✅ |
-
+| Day 435| 2026-11-08|Counting elemenets in 2 Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)| ✅ |
 
 
 
