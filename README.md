@@ -590,7 +590,7 @@
 | Day 433| 2026-11-06|Shortest Path| GFG | [Problem](https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)| ✅ |
 | Day 434| 2026-11-07|Earliest Common Slot| GFG | [Problem](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)| ✅ |
 | Day 435| 2026-11-08|Counting elemenets in 2 Array| GFG | [Problem](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)| ✅ |
-
+| Day 436| 2026-11-09|Max Weight Node| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-weight-node--170645/1)| ✅ |
 
 
 
