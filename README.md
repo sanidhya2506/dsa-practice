@@ -593,7 +593,7 @@
 | Day 436| 2026-11-09|Max Weight Node| GFG | [Problem](https://www.geeksforgeeks.org/problems/maximum-weight-node--170645/1)| ✅ |
 | Day 437| 2026-11-10|Reverse Alternate in LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)| ✅ |
 | Day 438| 2026-11-11|BST key in Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1)| ✅ |
-
+| Day 439| 2026-11-12|Missing in second array| GFG | [Problem](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)| ✅ |
 
 
 ---
