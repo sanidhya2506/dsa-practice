@@ -595,6 +595,9 @@
 | Day 438| 2026-11-11|BST key in Range| GFG | [Problem](https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1)| ✅ |
 | Day 439| 2026-11-12|Missing in second array| GFG | [Problem](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)| ✅ |
 | Day 440| 2026-11-13|Reverse Sublist| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1)| ✅ |
+| Day 441| 2026-11-14|Range Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1)| ✅ |
+
+
 
 ---
 
