@@ -597,7 +597,7 @@
 | Day 440| 2026-11-13|Reverse Sublist| GFG | [Problem](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1)| ✅ |
 | Day 441| 2026-11-14|Range Sum| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-query-ii5310/1)| ✅ |
 | Day 442| 2026-11-15|Possible Words From Phone digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1)| ✅ |
-
+| Day 443| 2026-11-16|Smallest Window| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)| ✅ |
 
 ---
 
