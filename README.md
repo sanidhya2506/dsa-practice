@@ -600,7 +600,7 @@
 | Day 443| 2026-11-16|Smallest Window| GFG | [Problem](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)| ✅ |
 | Day 444| 2026-11-17|Sum of Dependencies| GFG | [Problem](https://www.geeksforgeeks.org/problems/sum-of-dependencies-in-a-graph5311/1)| ✅ |
 | Day 445| 2026-11-18|Minimum Coins of 1, 2, 5 and 10| GFG | [Problem](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)| ✅ |
-
+| Day 446| 2026-11-19|Path Exists| GFG | [Problem](https://www.geeksforgeeks.org/problems/path-exists/1)| ✅ |
 
 
 
