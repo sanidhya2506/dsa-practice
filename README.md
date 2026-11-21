@@ -602,7 +602,7 @@
 | Day 445| 2026-11-18|Minimum Coins of 1, 2, 5 and 10| GFG | [Problem](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)| ✅ |
 | Day 446| 2026-11-19|Path Exists| GFG | [Problem](https://www.geeksforgeeks.org/problems/path-exists/1)| ✅ |
 | Day 447| 2026-11-20|Max Packages| GFG | [Problem](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1)| ✅ |
-
+| Day 448| 2026-11-21|Double First and Zero| GFG | [Problem](https://www.geeksforgeeks.org/problems/ease-the-array0633/1)| ✅ |
 
 
 
