@@ -604,7 +604,7 @@
 | Day 447| 2026-11-20|Max Packages| GFG | [Problem](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1)| ✅ |
 | Day 448| 2026-11-21|Double First and Zero| GFG | [Problem](https://www.geeksforgeeks.org/problems/ease-the-array0633/1)| ✅ |
 | Day 449| 2026-11-22|Generate Binary Number| GFG | [Problem](https://www.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1)| ✅ |
-
+| Day 450| 2026-11-23|Search in BST| GFG | [Problem](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)| ✅ |
 
 
 ---
