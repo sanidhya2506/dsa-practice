@@ -608,6 +608,22 @@
 | Day 451| 2026-11-24|Largest n Digit| GFG | [Problem](https://www.geeksforgeeks.org/problems/largest-number-with-given-sum-1587115620/1)| ✅ |
 | Day 452| 2026-11-25|Meeting Rooms| GFG | [Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)| ✅ |
 | Day 453| 2026-11-26|Set Matrix Zeros| GFG | [Problem](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)| ✅ |
+| Day 454| 2026-11-27|Roatate deque| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotate-deque-by-k/1)| ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
