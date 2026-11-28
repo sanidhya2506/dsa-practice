@@ -609,6 +609,7 @@
 | Day 452| 2026-11-25|Meeting Rooms| GFG | [Problem](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)| ✅ |
 | Day 453| 2026-11-26|Set Matrix Zeros| GFG | [Problem](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)| ✅ |
 | Day 454| 2026-11-27|Roatate deque| GFG | [Problem](https://www.geeksforgeeks.org/problems/rotate-deque-by-k/1)| ✅ |
+| Day 455| 2026-11-28|Intersection of LL| GFG | [Problem](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)| ✅ |
 
 
 
